@@ -1,0 +1,218 @@
+{
+  "revision": "v1.0",
+  "name": "sfr.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        256
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "FRA24"
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHDL_V1590_SCS30",
+      "writes": [
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHUL_V1590_SCS30",
+      "writes": [
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        110
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        30
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTCP-TimeOut",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.XCAP.GBA.ME.Mode",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.TCPIP.DSCP.SIP",
+      "writes": [
+        46
+      ]
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC.SUB.SERV",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

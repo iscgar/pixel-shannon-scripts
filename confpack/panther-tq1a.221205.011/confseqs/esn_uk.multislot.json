@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "esn_uk.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

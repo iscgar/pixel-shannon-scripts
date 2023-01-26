@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "vodafone_in.common",
+  "items": [
+    {
+      "name": "PSS.SMS.CBS Activation",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

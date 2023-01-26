@@ -1,0 +1,73 @@
+{
+  "revision": "v1.0",
+  "name": "h3g_at.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        195
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Register.Timer",
+      "writes": [
+        36000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    }
+  ]
+}

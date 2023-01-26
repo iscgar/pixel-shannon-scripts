@@ -1,0 +1,107 @@
+{
+  "revision": "v1.0",
+  "name": "kt.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        16385
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "KOR03"
+    },
+    {
+      "name": "GL3.Operator Specific Band",
+      "writes": [
+        14
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Blind Scan Enb/Dis",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.Improved_SSAC_Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.MM.Delay_First_RAU_During_CSFB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_PS_BARRING_NTF_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_USIM_MIGRATION",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ServerPort",
+      "writes": [
+        5080
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "tdc_dk-m23.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        5
+      ]
+    }
+  ]
+}

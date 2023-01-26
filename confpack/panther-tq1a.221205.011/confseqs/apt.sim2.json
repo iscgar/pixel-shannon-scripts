@@ -1,0 +1,64 @@
+{
+  "revision": "v1.2",
+  "name": "apt.sim2",
+  "items": [
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        139
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.Factory.URI",
+      "writes": "APT_CONF@volte.aptg.com.tw\u0000"
+    },
+    {
+      "name": "DS.NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.SessionRefresh-Method",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.UpdateCNI.Header",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "ds_PSS.GMC_Emc_Wait_For_Lte_Attach_Enabled",
+      "writes": [
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "revision": "v2.0",
+  "name": "fr_bouygues.multislot",
+  "items": [
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        16
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI01",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI02",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI03",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI04",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI05",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI06",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI07",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI08",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI09",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI10",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI11",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI12",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI13",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI14",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI15",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI16",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI17",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI18",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI19",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI20",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI21",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI22",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI23",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI24",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI25",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI26",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI27",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI28",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI29",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI31",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI32",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

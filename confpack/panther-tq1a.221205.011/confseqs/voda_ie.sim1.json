@@ -1,0 +1,167 @@
+{
+  "revision": "v1.0",
+  "name": "voda_ie.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        127
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": "teleconferenceuri-factory@ims.vodafone.ie\u0000"
+    },
+    {
+      "name": "PSS.AIMS.RTCP-TimeOut",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.Mode",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        240
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        240
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T1",
+      "writes": [
+        500
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T2",
+      "writes": [
+        4000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T4",
+      "writes": [
+        4000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.B(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RegRetry.MaxTime",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "PSS.XCAP.AS.Transport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.XCAP.BSF.Transport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.XCAP.As.RemotePort",
+      "writes": [
+        443
+      ]
+    },
+    {
+      "name": "PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        443
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1330
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1330
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1330
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1330
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    }
+  ]
+}

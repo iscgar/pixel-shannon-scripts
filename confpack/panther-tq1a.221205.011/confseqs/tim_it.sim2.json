@@ -1,0 +1,205 @@
+{
+  "revision": "v1.0",
+  "name": "tim_it.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        257
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "ITA09"
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM_DS",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        32
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-EVS",
+      "writes": [
+        126,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        2,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.Codec.Info",
+      "writes": [
+        1,
+        15,
+        15,
+        15,
+        1,
+        1,
+        0,
+        1,
+        7,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringback.Timer",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringing.Timer",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.GBA.ME.Mode",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.As.RemotePort",
+      "writes": [
+        8080
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Media.Max-Red",
+      "writes": [
+        220
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

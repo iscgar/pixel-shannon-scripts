@@ -1,0 +1,222 @@
+{
+  "revision": "v1.0",
+  "name": "voda_de.multislot",
+  "items": [
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_FGI21",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI31",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI106",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI108",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI109",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI110",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9_WITH_8TX",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI21",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI31",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI106",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI108",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI109",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI110",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_SS_CCH_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": [
+        38
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        78
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": [
+        38
+      ]
+    }
+  ]
+}

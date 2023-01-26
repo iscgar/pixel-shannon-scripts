@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "videotron.common",
+  "items": [
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_SINGLE_MAPPING_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

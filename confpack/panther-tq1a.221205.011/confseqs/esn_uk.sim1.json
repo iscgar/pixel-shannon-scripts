@@ -1,0 +1,78 @@
+{
+  "revision": "v1.0",
+  "name": "esn_uk.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        256
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_AUTH_ALGO",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Session.Expires",
+      "writes": [
+        2000
+      ]
+    }
+  ]
+}

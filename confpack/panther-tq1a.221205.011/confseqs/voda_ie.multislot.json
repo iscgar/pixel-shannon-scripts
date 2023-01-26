@@ -1,0 +1,78 @@
+{
+  "revision": "v1.0",
+  "name": "voda_ie.multislot",
+  "items": [
+    {
+      "name": "UECAPA_FGI21",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI31",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI21",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI31",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

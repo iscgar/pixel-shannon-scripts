@@ -1,0 +1,399 @@
+{
+  "revision": "v4.0",
+  "name": "uscc.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        4098
+      ]
+    },
+    {
+      "name": "PSS.MMC.MMSS RAT ID",
+      "writes": [
+        2,
+        3,
+        5,
+        9,
+        2,
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.LCS_VA_capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.MsPositionMethod_capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.DISABLE_IPV4_MTU_IN_PCO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1422
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_CONDITION_BAND",
+      "writes": [
+        20002
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_CONDITION_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_LIMITATION_MAX_DL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_LIMITATION_MAX_UL_CC_NUM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        196
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": "fg"
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": "hi"
+    },
+    {
+      "name": "PSS.AIMS.Payload-EVS",
+      "writes": [
+        126,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTT.ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": "usccconf@usccims.com\u0000"
+    },
+    {
+      "name": "PSS.AIMS.Text.rtcp.RR",
+      "writes": [
+        2000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtcp.RS",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ADD.PANI.TRUSTED.CONNECTION",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BW.Info",
+      "writes": [
+        3,
+        6
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        5,
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Max",
+      "writes": [
+        5,
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        2,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.Codec.Info",
+      "writes": [
+        1,
+        15,
+        15,
+        15,
+        1,
+        1,
+        0,
+        5,
+        5,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRWB.Mode.Set",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRNB.Mode.Set",
+      "writes": [
+        149
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Register.Timer",
+      "writes": [
+        7200
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Subscribe.Timer",
+      "writes": [
+        7200
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        900
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.B(64*T1)",
+      "writes": [
+        130000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.TQOS",
+      "writes": [
+        10000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall",
+      "writes": [
+        20000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Refresher.Param",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1080
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "EMC.FEATURE_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.Max-Red",
+      "writes": [
+        220
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC.SUB.SERV",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EmcPdnRemoval",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

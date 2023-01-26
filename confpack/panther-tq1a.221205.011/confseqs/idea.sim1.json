@@ -1,0 +1,108 @@
+{
+  "revision": "v1.0",
+  "name": "idea.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        268
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_VOICE_DOMAIN_PREF",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        132
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        30
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1400
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1400
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PERFORM.UNCONVENTIONAL.UNHOLD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    }
+  ]
+}

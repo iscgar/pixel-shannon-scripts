@@ -1,0 +1,169 @@
+{
+  "revision": "v1.0",
+  "name": "movistar_es.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        257
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "ESP12"
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        181
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRNB",
+      "writes": "fl"
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRWB",
+      "writes": "hn"
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-EVS",
+      "writes": [
+        126,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.As.RemotePort",
+      "writes": [
+        8089
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        8088
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.CALLEDNUM.SOURCE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.SessionRefresh-Method",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.ACCESSTYPE.SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HCOMMON.Support of Quick Rollback To LTE_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "HCOMMON.WB-AMR Enabled_obsolete_DS",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

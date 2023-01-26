@@ -1,0 +1,120 @@
+{
+  "revision": "v1.0",
+  "name": "ee_uk.multislot",
+  "items": [
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        13
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI113",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI113",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9_WITH_8TX",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_EXTENDED_RLC_SN_SO_FIELD_R13_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": [
+        38
+      ]
+    }
+  ]
+}

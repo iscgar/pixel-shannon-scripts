@@ -1,0 +1,18 @@
+{
+  "revision": "v1.1",
+  "name": "fizz-ca.sim2",
+  "items": [
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

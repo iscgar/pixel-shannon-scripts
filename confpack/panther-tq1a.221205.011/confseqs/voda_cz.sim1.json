@@ -1,0 +1,62 @@
+{
+  "revision": "v1.0",
+  "name": "voda_cz.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        129
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        7
+      ]
+    }
+  ]
+}

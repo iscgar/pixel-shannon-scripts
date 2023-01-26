@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "att_mvno.sim1",
+  "items": [
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

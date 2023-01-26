@@ -1,0 +1,99 @@
+{
+  "revision": "v1.0",
+  "name": "voda_tr.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        179
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-EVS",
+      "writes": [
+        126,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.XCAP.As.RemotePort",
+      "writes": [
+        443
+      ]
+    },
+    {
+      "name": "PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        80
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.SIP.INSTANCE",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

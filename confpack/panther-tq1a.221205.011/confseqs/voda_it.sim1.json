@@ -1,0 +1,114 @@
+{
+  "revision": "v1.0",
+  "name": "voda_it.sim1",
+  "items": [
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "ITA05"
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        124
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Session.Expires",
+      "writes": [
+        900
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RegRetry.MaxTime",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_AUTH_ALGO",
+      "writes": [
+        6
+      ]
+    }
+  ]
+}

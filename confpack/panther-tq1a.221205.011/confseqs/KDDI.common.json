@@ -1,0 +1,18 @@
+{
+  "revision": "v9.0",
+  "name": "KDDI.common",
+  "items": [
+    {
+      "name": "LTEL1.PCH_GAP_CONFLICT_DETECT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.T_PLMN_BARRING_FEATURE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

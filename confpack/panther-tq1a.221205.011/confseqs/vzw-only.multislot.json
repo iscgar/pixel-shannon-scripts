@@ -1,0 +1,18 @@
+{
+  "revision": "v3.0",
+  "name": "vzw-only.multislot",
+  "items": [
+    {
+      "name": "UECAPA_INTRA_FREQ_SI_ACQ_FOR_HO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_INTER_FREQ_SI_ACQ_FOR_HO",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

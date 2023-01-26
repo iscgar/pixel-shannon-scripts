@@ -1,0 +1,19 @@
+{
+  "revision": "v1.0",
+  "name": "es_orange.multislot",
+  "items": [
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        77,
+        78
+      ]
+    }
+  ]
+}

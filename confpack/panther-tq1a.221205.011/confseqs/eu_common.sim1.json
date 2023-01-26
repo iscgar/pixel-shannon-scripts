@@ -1,0 +1,66 @@
+{
+  "revision": "v1.0",
+  "name": "eu_common.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        256
+      ]
+    },
+    {
+      "name": "!SAEL3.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

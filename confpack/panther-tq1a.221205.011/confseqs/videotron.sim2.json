@@ -1,0 +1,330 @@
+{
+  "revision": "v1.0",
+  "name": "videotron.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        2048
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "CAN18"
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_UPGRADE_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.SRVCC_to_2G3G_Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.SIM_OPERATOR_BAND",
+      "writes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        12,
+        13,
+        14,
+        18,
+        19,
+        20,
+        21,
+        25,
+        26,
+        28,
+        29,
+        30,
+        32,
+        38,
+        39,
+        40,
+        41,
+        42,
+        46,
+        48,
+        66,
+        71
+      ]
+    },
+    {
+      "name": "DS.OMC.GSM.PLMN.LIST.DATA",
+      "writes": [
+        1,
+        1,
+        48,
+        47,
+        255
+      ]
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.EMER_CALL_PENDING_DURING_NORMAL_SEARCH",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHDL_V1590_SCS30_DS",
+      "writes": [
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHUL_V1590_SCS30_DS",
+      "writes": [
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        203
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRNB",
+      "writes": "fl"
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRWB",
+      "writes": "hn"
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.Factory.URI",
+      "writes": "conference@factory.ims.mnc500.mcc302.3gppnetwork.org\u0000"
+    },
+    {
+      "name": "DS.PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.As.RemotePort",
+      "writes": [
+        8090
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        8080
+      ]
+    },
+    {
+      "name": "DS.EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.LOCAL.NUMBER.TYPE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Media.Max-Red",
+      "writes": [
+        220
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EMC.SUB.SERV",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PREF_TRANSPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "ds_PSS.GMC_Emc_Wait_For_Lte_Attach_Enabled",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.EMC.FIRST.DOMAIN.PS.PREFERRED",
+      "writes": [
+        17
+      ]
+    }
+  ]
+}

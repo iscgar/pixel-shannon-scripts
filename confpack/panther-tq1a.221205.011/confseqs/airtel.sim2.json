@@ -1,0 +1,112 @@
+{
+  "revision": "v1.0",
+  "name": "airtel.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        268
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "IND12"
+    },
+    {
+      "name": "!SAEL3_DS.SAE_VOICE_DOMAIN_PREF",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "LPP.Position_Method_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        46
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Session.Expires",
+      "writes": [
+        3600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Min.Se",
+      "writes": [
+        3600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringing.Timer",
+      "writes": [
+        35
+      ]
+    },
+    {
+      "name": "DS.EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PERFORM.UNCONVENTIONAL.UNHOLD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "HCOMMON.WB-AMR Enabled_obsolete_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "DS_GL3.DtmSupport",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

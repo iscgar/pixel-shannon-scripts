@@ -1,0 +1,214 @@
+{
+  "revision": "v1.0",
+  "name": "rakuten.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        32772
+      ]
+    },
+    {
+      "name": "!SAEL3.Band.Preferred Band",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1440
+      ]
+    },
+    {
+      "name": "!SAEL3.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST_LENGTH",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!SAEL3.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST",
+      "writes": [
+        68,
+        240,
+        17,
+        68,
+        240,
+        53
+      ]
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        168
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        45
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.TQOS",
+      "writes": [
+        3000
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIPMSG.MTU.CHECK",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.Codec.Info",
+      "writes": [
+        1,
+        15,
+        1,
+        15,
+        1,
+        1,
+        0,
+        4,
+        7,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1440
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1440
+      ]
+    },
+    {
+      "name": "NASU.CROSS.STACK.REDIAL.TIMER",
+      "writes": [
+        35
+      ]
+    },
+    {
+      "name": "NASU.QUICK.CROSS.STACK.REDIAL.TIMER",
+      "writes": [
+        3
+      ]
+    }
+  ]
+}

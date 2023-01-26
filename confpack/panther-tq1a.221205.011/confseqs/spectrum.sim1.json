@@ -1,0 +1,24 @@
+{
+  "revision": "v1.0",
+  "name": "spectrum.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.SIP_HIDE_WIFI_MACADDRESS_IN_PANI",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    }
+  ]
+}

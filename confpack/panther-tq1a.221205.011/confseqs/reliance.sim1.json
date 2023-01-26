@@ -1,0 +1,285 @@
+{
+  "revision": "v1.0",
+  "name": "reliance.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        268
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "IND13"
+    },
+    {
+      "name": "!SAEL3.SAE_VOICE_DOMAIN_PREF",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "EMC.FIRST.DOMAIN.PS.PREFERRED",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        14
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        45
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.C",
+      "writes": [
+        180000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.As.RemotePort",
+      "writes": [
+        7077
+      ]
+    },
+    {
+      "name": "PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        7080
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.Mode",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.Request.Timeout.3gpp",
+      "writes": [
+        10000
+      ]
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        40
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.SIP.INSTANCE",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SILENT_REDIAL_INTERVAL",
+      "writes": [
+        8000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.HANDLE_ERR_RESPONSE_WITH_RETRYAFTER_ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PERFORM.UNCONVENTIONAL.UNHOLD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EmcPdnRemoval",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST_LENGTH",
+      "writes": [
+        22
+      ]
+    },
+    {
+      "name": "!SAEL3.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST",
+      "writes": [
+        4,
+        5,
+        72,
+        4,
+        69,
+        88,
+        4,
+        85,
+        88,
+        4,
+        101,
+        88,
+        4,
+        117,
+        88,
+        4,
+        133,
+        88,
+        4,
+        149,
+        88,
+        4,
+        5,
+        104,
+        4,
+        21,
+        104,
+        4,
+        37,
+        104,
+        4,
+        53,
+        104,
+        4,
+        69,
+        104,
+        4,
+        85,
+        104,
+        4,
+        101,
+        104,
+        4,
+        117,
+        104,
+        4,
+        133,
+        104,
+        4,
+        149,
+        104,
+        4,
+        5,
+        120,
+        4,
+        21,
+        120,
+        4,
+        37,
+        120,
+        4,
+        53,
+        120,
+        4,
+        69,
+        120
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    }
+  ]
+}

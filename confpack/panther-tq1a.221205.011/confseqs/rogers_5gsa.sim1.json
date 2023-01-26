@@ -1,0 +1,72 @@
+{
+  "revision": "v1.0",
+  "name": "rogers_5gsa.sim1",
+  "items": [
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

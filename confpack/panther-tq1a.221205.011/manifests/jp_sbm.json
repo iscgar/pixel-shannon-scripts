@@ -1,0 +1,172 @@
+{
+  "revision": "v0.1",
+  "name": "jp_sbm",
+  "carrier_id": 1894,
+  "confseqs": [
+    {
+      "type": "common",
+      "hash": "33bcaac3a286f217a9d7e493f713b95e63ab3502",
+      "name": "default.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "8cdc5b1a13e3895ccbf2b61ab67565149c79e8a4",
+      "name": "suclr_big_data_cc_num.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "231e9b33b1a04508efe71e5e8d0222a9b69105e0",
+      "name": "lte_ca_common.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "63cf1332d846af396c103d9a7dfde78d6ff8ee25",
+      "name": "lte_ca_0.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "2e4ba84b063bbce87e56c405f51c456ec3783429",
+      "name": "lte_ca_1.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "ef0dd98f6194240359e2a94d845bd04ca1d66cd4",
+      "name": "endc_nr_ca_common.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "4dcf256c670656b37dbe4a2fdbedad1757fab99c",
+      "name": "Softbank.common"
+    },
+    {
+      "type": "sim1",
+      "hash": "c2c7021b2ac517aaf914f7241cbfc07564bd77c1",
+      "name": "default.sim1",
+      "f4": 1
+    },
+    {
+      "type": "sim1",
+      "hash": "f15745f206117a64c3e63de4342cfb8a6b1ae258",
+      "name": "endc_nr_ca_common_manual.sim1",
+      "f4": 1
+    },
+    {
+      "type": "sim1",
+      "hash": "466d4102013f313e9d17baedbcef4c53fc37ba16",
+      "name": "endc_nr_ca_common.sim1",
+      "f4": 1
+    },
+    {
+      "type": "sim1",
+      "hash": "8a113baaee4e79245f47e3a58ba8fc5c463caeaa",
+      "name": "Softbank.sim1"
+    },
+    {
+      "type": "sim2",
+      "hash": "d9224dab30da69f362bddc18324363f22bc471e1",
+      "name": "default.sim2",
+      "f4": 1
+    },
+    {
+      "type": "sim2",
+      "hash": "414040f806af69a9dc7e5a90eb6a316c4be5792d",
+      "name": "endc_nr_ca_common_manual.sim2",
+      "f4": 1
+    },
+    {
+      "type": "sim2",
+      "hash": "5576cfe2a223d2d8009db9e06c9ff4e216c42ca4",
+      "name": "endc_nr_ca_common.sim2",
+      "f4": 1
+    },
+    {
+      "type": "sim2",
+      "hash": "5a83cd55c6b4b7187cec657e12ae7e11f41808f3",
+      "name": "Softbank.sim2"
+    },
+    {
+      "type": "multislot",
+      "hash": "c078cc9b3081f26e5951756581a4b2433c2d104b",
+      "name": "default.multislot",
+      "f4": 1
+    },
+    {
+      "type": "multislot",
+      "hash": "2d7dbb0c2a3d8c5974a79a700c9263a807a5d7fc",
+      "name": "Softbank.multislot"
+    },
+    {
+      "type": "blob",
+      "hash": "39ad3110b8f84821ca22cfbd995914f2149521d2",
+      "blob_path": "/carriers/rootcerts/security_communication_rootca2"
+    },
+    {
+      "type": "blob",
+      "hash": "6bdc59f897631af7811e3201cbc58e5999de2600",
+      "blob_path": "/carriers/rootcerts/globalsign"
+    },
+    {
+      "type": "blob",
+      "hash": "ca3760ba63bf0a2c5dd0dc7fe897838cc58f12a3",
+      "blob_path": "/carriers/rootcerts/starfield_root_certificate_authority_g2"
+    },
+    {
+      "type": "blob",
+      "hash": "500329abac100a953a7396b54b36be57d333022f",
+      "blob_path": "/carriers/rootcerts/go_daddy_root_certificate_authority_g2"
+    },
+    {
+      "type": "blob",
+      "hash": "d1c290ea1e4544dec1934931fbfa1fb2060eb3a0",
+      "blob_path": "/carriers/rootcerts/baltimore_cybertrust_root"
+    },
+    {
+      "type": "common",
+      "hash": "25137751c2b1cc9c3284b530a7110b115e9fd442",
+      "name": "sbm-c10.common",
+      "platform": 3,
+      "product": 9
+    },
+    {
+      "type": "sim1",
+      "hash": "93af385587e8d903305e7685b0748f18345c5d73",
+      "name": "sbm-c10.sim1",
+      "platform": 3,
+      "product": 9
+    },
+    {
+      "type": "sim2",
+      "hash": "4e4bdafe6e25b0a6cf383252f1c2bc25dd1a41af",
+      "name": "sbm-c10.sim2",
+      "platform": 3,
+      "product": 9
+    },
+    {
+      "type": "common",
+      "hash": "797b98012794e703eea52f394504f520efd2311c",
+      "name": "sbm-p10.common",
+      "platform": 3,
+      "product": 8
+    },
+    {
+      "type": "sim1",
+      "hash": "366b006019090f5e0ed91e2bbec70adcb43f0e3d",
+      "name": "sbm-p10.sim1",
+      "platform": 3,
+      "product": 8
+    },
+    {
+      "type": "sim2",
+      "hash": "2c9ff4d0aab08f625c675e191ae25af3e0fde0ec",
+      "name": "sbm-p10.sim2",
+      "platform": 3,
+      "product": 8
+    }
+  ]
+}

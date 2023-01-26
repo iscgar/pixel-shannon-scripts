@@ -1,0 +1,76 @@
+{
+  "revision": "v1.0",
+  "name": "m1.sim2",
+  "items": [
+    {
+      "name": "!SAEL3_DS.LTE_ENABLE_ADD_GUTI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.OMC.GSM.PLMN.LIST.DATA",
+      "writes": [
+        1,
+        1,
+        82,
+        95,
+        255
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.REFRESH.REG.IRAT",
+      "writes": [
+        15
+      ]
+    }
+  ]
+}

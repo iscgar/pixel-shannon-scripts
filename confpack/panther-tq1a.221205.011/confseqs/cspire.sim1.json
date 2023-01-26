@@ -1,0 +1,323 @@
+{
+  "revision": "v1.0",
+  "name": "cspire.sim1",
+  "items": [
+    {
+      "name": "!SAEL3.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1422
+      ]
+    },
+    {
+      "name": "NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        32962
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        201
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": "fl"
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": "hn"
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": "mmtel@conf-factory.ims.cspire.com\u0000"
+    },
+    {
+      "name": "PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTCP-TimeOut",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-EVS",
+      "writes": [
+        109,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BW.Info",
+      "writes": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Max",
+      "writes": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.B(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RegRetry.MaxTime",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_P_EMERGENCY_INFO_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_GEOLOCATION_SUPPORT",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.SIP.INSTANCE",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NONSEC_AUTH_ALGO",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC.SUB.SERV",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Process.Only.First.EarlyMedia.Param",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

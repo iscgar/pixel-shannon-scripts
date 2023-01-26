@@ -1,0 +1,54 @@
+{
+  "revision": "v2.0",
+  "name": "fr_free.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.supp_of_fdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_Efdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.slotFormat4",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_ul_dtx",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FOURLAYER_TM3TM4",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9TM10_SETLAYER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_UL_64QAM_BAND_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_DL_256QAM_BAND_SUPPORT",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

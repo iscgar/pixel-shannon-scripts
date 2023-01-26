@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "eir_ie.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

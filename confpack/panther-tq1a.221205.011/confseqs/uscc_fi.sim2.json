@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "uscc_fi.sim2",
+  "items": [
+    {
+      "name": "COMMON.BplmnOOSPriorityOverPs_DS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

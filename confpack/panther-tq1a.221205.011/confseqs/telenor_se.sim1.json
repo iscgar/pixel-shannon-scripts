@@ -1,0 +1,93 @@
+{
+  "revision": "v1.0",
+  "name": "telenor_se.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        55
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-EVS",
+      "writes": [
+        126,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        90
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        90
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T1",
+      "writes": [
+        500
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T2",
+      "writes": [
+        4000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T4",
+      "writes": [
+        5000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "revision": "v1.0",
+  "name": "a1_at.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": "*28@ims.mnc001.mcc232.3gppnetwork.org\u0000"
+    },
+    {
+      "name": "PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DTMF-MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Max",
+      "writes": [
+        5,
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRNB.Mode.Set",
+      "writes": [
+        149
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RegRetry.MaxTime",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    }
+  ]
+}

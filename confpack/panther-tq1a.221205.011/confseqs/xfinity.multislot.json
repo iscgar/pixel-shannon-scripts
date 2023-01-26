@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "xfinity.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

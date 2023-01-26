@@ -1,0 +1,924 @@
+{
+  "revision": "v1.0",
+  "name": "endc_nr_ca_common_manual.sim1",
+  "items": [
+    {
+      "name": "UECAPA_NR_RF_BAND_1_CHDL_SCS15",
+      "writes": [
+        1020
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_CHUL_SCS15",
+      "writes": [
+        1020
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_CHDL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_CHUL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_CHDL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_CHUL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_CHDL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_CHUL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_CHDL_SCS30",
+      "writes": [
+        448
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_CHUL_SCS30",
+      "writes": [
+        448
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_CHDL_SCS15",
+      "writes": [
+        1020
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_CHUL_SCS15",
+      "writes": [
+        1020
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_CHDL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_CHUL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_CHDL_SCS15",
+      "writes": [
+        896
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_CHUL_SCS15",
+      "writes": [
+        896
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_CHDL_SCS15",
+      "writes": [
+        768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_CHUL_SCS15",
+      "writes": [
+        768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_CHDL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_CHUL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_CHDL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_CHUL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_CHDL_SCS15",
+      "writes": [
+        984
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_CHUL_SCS15",
+      "writes": [
+        984
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_CHDL_SCS15",
+      "writes": [
+        768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_CHUL_SCS15",
+      "writes": [
+        768
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_CHDL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_CHUL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_CHDL_SCS30",
+      "writes": [
+        504
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_CHUL_SCS30",
+      "writes": [
+        504
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHDL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHUL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHDL_SCS30",
+      "writes": [
+        511
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHUL_SCS30",
+      "writes": [
+        511
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHDL_SCS15",
+      "writes": [
+        476
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHUL_SCS15",
+      "writes": [
+        476
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHDL_SCS30",
+      "writes": [
+        479
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHUL_SCS30",
+      "writes": [
+        479
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_CHDL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_CHUL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_CHDL_SCS30",
+      "writes": [
+        463
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_CHUL_SCS30",
+      "writes": [
+        456
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_CHDL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_CHUL_SCS15",
+      "writes": [
+        1016
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_CHDL_SCS30",
+      "writes": [
+        504
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_CHUL_SCS30",
+      "writes": [
+        504
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_CHDL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_CHUL_SCS15",
+      "writes": [
+        960
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_CHDL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_CHUL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_CHDL_SCS30",
+      "writes": [
+        511
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_CHUL_SCS30",
+      "writes": [
+        511
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHDL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHUL_SCS15",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHDL_SCS30",
+      "writes": [
+        511
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHUL_SCS30",
+      "writes": [
+        511
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_CHDL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_CHUL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_CHDL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_CHUL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_CHDL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_CHUL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_CHDL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_CHUL_SCS120",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_CHDL_SCS15",
+      "writes": [
+        992
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_CHUL_SCS15",
+      "writes": [
+        896
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_CHDL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_CHUL_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_CHDL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_CHUL_SCS60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHDL_V1590_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_CHUL_V1590_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHDL_V1590_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_CHUL_V1590_SCS30",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_BM",
+      "writes": [
+        2265
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_BM",
+      "writes": [
+        2265
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

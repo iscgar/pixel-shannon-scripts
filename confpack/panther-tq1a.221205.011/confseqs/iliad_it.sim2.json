@@ -1,0 +1,36 @@
+{
+  "revision": "v1.0",
+  "name": "iliad_it.sim2",
+  "items": [
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM_DS",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        219
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    }
+  ]
+}

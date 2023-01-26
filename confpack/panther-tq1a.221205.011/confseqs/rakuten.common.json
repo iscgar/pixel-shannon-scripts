@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "rakuten.common",
+  "items": [
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "MODEM.RESERVED.16",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

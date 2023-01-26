@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "dt_nl.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.EnhancedCellFachSupport",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.EnhancedCellFachDrxSupport",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

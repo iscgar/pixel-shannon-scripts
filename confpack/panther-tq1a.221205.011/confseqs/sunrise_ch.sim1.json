@@ -1,0 +1,84 @@
+{
+  "revision": "v1.0",
+  "name": "sunrise_ch.sim1",
+  "items": [
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        35018
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        32970
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ADD.PANI.TRUSTED.CONNECTION",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_AUTH_ALGO",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.TQOS",
+      "writes": [
+        3000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    }
+  ]
+}

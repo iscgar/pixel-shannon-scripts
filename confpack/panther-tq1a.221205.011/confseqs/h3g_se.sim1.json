@@ -1,0 +1,68 @@
+{
+  "revision": "v1.0",
+  "name": "h3g_se.sim1",
+  "items": [
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        62
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_GEOLOCATION_SUPPORT",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SessionRefresh-Method",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

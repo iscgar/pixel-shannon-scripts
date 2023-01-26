@@ -1,0 +1,56 @@
+{
+  "revision": "v1.0",
+  "name": "h3g_ie.sim1",
+  "items": [
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Register.Timer",
+      "writes": [
+        36000
+      ]
+    },
+    {
+      "name": "PSS.XCAP.AS.Server.Domain",
+      "writes": "xcap.three.ie\u0000"
+    },
+    {
+      "name": "PSS.XCAP.BSF.Server.Domain",
+      "writes": "bsf.three.ie\u0000"
+    },
+    {
+      "name": "PSS.XCAP.AS.Transport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.XCAP.BSF.Transport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.XCAP.As.RemotePort",
+      "writes": [
+        443
+      ]
+    },
+    {
+      "name": "PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        443
+      ]
+    }
+  ]
+}

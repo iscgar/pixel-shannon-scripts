@@ -1,0 +1,72 @@
+{
+  "revision": "v1.0",
+  "name": "voda_common.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        264
+      ]
+    },
+    {
+      "name": "DS_GL3.DtmSupport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.gea_algorithms",
+      "writes": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ds_NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPSEC_AUTH_ALGO",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

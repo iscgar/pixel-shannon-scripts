@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "rakuten.multislot",
+  "items": [
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

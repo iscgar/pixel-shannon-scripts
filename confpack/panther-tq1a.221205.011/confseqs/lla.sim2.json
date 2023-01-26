@@ -1,0 +1,24 @@
+{
+  "revision": "v1.0",
+  "name": "lla.sim2",
+  "items": [
+    {
+      "name": "!SAEL3_DS.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1280
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1280
+      ]
+    }
+  ]
+}

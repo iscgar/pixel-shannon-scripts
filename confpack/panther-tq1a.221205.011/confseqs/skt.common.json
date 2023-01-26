@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "skt.common",
+  "items": [
+    {
+      "name": "UL3.Cap.NumSupportedDLHSCells",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

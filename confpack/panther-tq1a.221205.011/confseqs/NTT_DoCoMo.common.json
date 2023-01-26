@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "NTT_DoCoMo.common",
+  "items": [
+    {
+      "name": "!SAEL3.T_PLMN_BARRING_FEATURE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

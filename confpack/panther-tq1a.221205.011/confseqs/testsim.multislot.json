@@ -1,0 +1,62 @@
+{
+  "revision": "v1.0",
+  "name": "testsim.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_MULTI_CLUSTER_PUSCH_WITHIN_CC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_NON_CONTIG_UL_RA_WITH_CC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_NON_CONTIG_UL_RA_WITH_CC_SPECIFIC",
+      "writes": [
+        4,
+        2,
+        4,
+        12,
+        66
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": "&)"
+    }
+  ]
+}

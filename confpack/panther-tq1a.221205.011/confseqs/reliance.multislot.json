@@ -1,0 +1,78 @@
+{
+  "revision": "v1.0",
+  "name": "reliance.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.dl_supp_macehs",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_IRAT PS HO to E-UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp EUTRAN meas and report in connected",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_SS_CCH_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9_WITH_8TX",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Req.APBCR_Feature_Supported",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_EUTRAN_meas_in_CellFach",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "revision": "v1.0",
+  "name": "LGU.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        16386
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "KOR13"
+    },
+    {
+      "name": "LPP.Profile",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "GL3.Operator Specific Band",
+      "writes": [
+        14
+      ]
+    },
+    {
+      "name": "!SAEL3.Improved_SSAC_Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.MM.EnableHplmnException",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_PS_BARRING_NTF_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_USIM_MIGRATION",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        45
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": "conference-factory\u0000"
+    },
+    {
+      "name": "PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

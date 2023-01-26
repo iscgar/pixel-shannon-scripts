@@ -1,0 +1,343 @@
+{
+  "revision": "v1.0",
+  "name": "telstra.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        260
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "AUS12"
+    },
+    {
+      "name": "ds_NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.ISR_Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS_GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_UPGRADE_ISR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_ADDNL_THROTTLING_FLAG",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_RAT_MODE_1",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_APN_TYPE_1",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_REJECT_CAUSE_LIST_1",
+      "writes": [
+        26,
+        27,
+        28,
+        30,
+        31,
+        34,
+        38
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_TIMER_VALUES_1",
+      "writes": [
+        720,
+        1440,
+        2880,
+        5760,
+        11520,
+        23040,
+        46080,
+        92160,
+        2147483647
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_RAT_MODE_2",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_APN_TYPE_2",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_REJECT_CAUSE_LIST_2",
+      "writes": [
+        8,
+        29,
+        32,
+        33
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.PDN_RETRY_TIMER_VALUES_2",
+      "writes": [
+        2147483647
+      ]
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM_DS",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_FBI_DS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_FBI_DS",
+      "writes": [
+        10028
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        22
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.Codec.Info",
+      "writes": [
+        1,
+        15,
+        15,
+        15,
+        1,
+        1,
+        0,
+        1,
+        7,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Min.Se",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringing.Timer",
+      "writes": [
+        45
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Session.Expires",
+      "writes": [
+        3600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1400
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1400
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.SIP_HEADER_GEOLOCATION_SUPPORT",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Enable.SIP.INSTANCE",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.CNI.Timer",
+      "writes": [
+        1200000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.SS.MediaTag.Config",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EmcPdnRemoval",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

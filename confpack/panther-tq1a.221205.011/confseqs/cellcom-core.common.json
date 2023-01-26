@@ -1,0 +1,24 @@
+{
+  "revision": "v1.0",
+  "name": "cellcom-core.common",
+  "items": [
+    {
+      "name": "!SAEL3.Cfg.Data Retry Test Enb/Dis",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRRRC.SIM_BASED_BAND_LIST_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

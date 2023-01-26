@@ -1,0 +1,2853 @@
+{
+  "revision": "v1.0",
+  "name": "default.sim1",
+  "items": [
+    {
+      "name": "PSS.MMC.UE_RAT_MODE_CAPABILITY",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UE RAT MODE CARRIER CONFIG",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "NR.ENDC.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.MMC.MMSS RAT ID",
+      "writes": [
+        2,
+        3,
+        5,
+        9,
+        4,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PSS.CSG_SUPPORTED",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASU.DivDuplexMode",
+      "writes": [
+        307
+      ]
+    },
+    {
+      "name": "TCS_GV_CDMA_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_ANT_SWITCHING",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_CC_AUTOREDIAL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_CP_IPV6_RANDIID",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_CP_IPV6_RSRA",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_DPLANE_OPT_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_EU_REGIONAL_LOCK",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_REMOTE_SIM_UNLOCK",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_SIM_HOT_SWAP",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_FCN_SUPL_ECID",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "DFT01"
+    },
+    {
+      "name": "TCS_GV_CP_PBM_DISABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_DSDS_TYPE",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "TCS_GV_DUAL_STACK_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_LTE_MBSFN_FEATURE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_LTE_REL11",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_SHANNON_VOLTE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_SVE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_UPGRADE_ECELL_FACH",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_UPGRADE_ECELL_FACH_DRX",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_UPGRADE_ISR",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_UPGRADE_SRVCC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_HOST_INTERFACE_TYPE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "TCS_GV_PS_BARRING_NTF_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_USIM_MIGRATION",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_LOCATION_INFO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.REPORT.DEFAULT.IPV6.MTU",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.BIP_IPTYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.BIP_AUTHTYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.BIP_OW_USERNAME_PW",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.BIP_USERNAME",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.BIP_PASSWORD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_VOICE_DOMAIN_PREF",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_UE_OPERATION_MODE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_CS_SERVICES_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.LTE_EMM_AVOID_MODE_UPDATE_INTERNAL_DETACH",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.SIM_OPERATOR_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.Band.Preferred Band",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.Band.Preferred Band List",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.ISR_Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.SRVCC_to_2G3G_Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1500
+      ]
+    },
+    {
+      "name": "!SAEL3.REPORT_MTU_SIZE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "LPP.Profile",
+      "writes": [
+        23
+      ]
+    },
+    {
+      "name": "LPP.Position_Method",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "PSS.LBS.NR_Pos_Profile",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.LBS.NR_AGNSS_Profile",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.DAM_Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.Cfg.Data Retry Rel Version",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_MT_CALL_IND_TO_USER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.LTE_SET_PS_MODE_2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.Improved_SSAC_Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.CATS_enabled",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.T3245 T3247 Timer Supported",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.LTE_ENABLE_ADD_GUTI",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST_LENGTH",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "EMC.FIRST.DOMAIN.PS.PREFERRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_BlockL2NIrat",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_General_Cust_PowerOn_Highest_Rat_Enabled",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.GMC_General_Cust_Rat_Enabled",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_General_Cust_Rat_Search_Order",
+      "writes": [
+        3,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "name": "!SAEL3.DISABLE_IPV4_MTU_IN_PCO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PCSCF_RESELECT_SUPPORT_REQ",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.EXTPCO_SUPPORT.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Blind Scan Enb/Dis",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_LTE_REL12_LAYER2",
+      "writes": [
+        58
+      ]
+    },
+    {
+      "name": "TCS_GV_LTE_REL12_RRC",
+      "writes": [
+        58
+      ]
+    },
+    {
+      "name": "TCS_GV_LTE_REL12_RRM",
+      "writes": [
+        58
+      ]
+    },
+    {
+      "name": "TCS_GV_LTE_REL12_SAEL3",
+      "writes": [
+        58
+      ]
+    },
+    {
+      "name": "TCS_GV_CSG_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "NASL3.MM.ss_screen",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.Support of Quick Rollback To LTE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.gea_algorithms",
+      "writes": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HCOMMON.Support of Quick Rollback G2L",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.MM.Delay_First_RAU_During_CSFB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.gprs_multislot_class",
+      "writes": [
+        33
+      ]
+    },
+    {
+      "name": "NASL3.MM.ENS_enabled",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.SS.Advice of Charge Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.EnableHplmnException",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.LCS_VA_capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.MsPositionMethod_capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.MsPositionMethod_UMTS",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.MsPositionMethod_GSM",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.MsPositionMethod_Ganss_capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.VAMOS.mode",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.WB-AMR Enabled_obsolete",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "NASL3.MM.Enable_Quick_Rollback_To_Lte_Pdp",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.NR_QUICK_RB_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.NR_QRB_MODE_UPDATE_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "GL3.LowPrior900Band",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "GL3.Operator Specific Band",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "GL3.Edge_Band_Config",
+      "writes": [
+        31
+      ]
+    },
+    {
+      "name": "GL3.DtmSupport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Etc.MRU_UmtsMode",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_ADDNL_THROTTLING_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_1",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_3",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_4",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_5",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_6",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_1",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_3",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_4",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_5",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_6",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_1",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_3",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_4",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_5",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_6",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_1",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_3",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_4",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_5",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_6",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OMC.GSM.PLMN.LIST.DATA",
+      "writes": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "OMC.UMTS.PLMN.LIST.DATA",
+      "writes": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRMM.NRMM_N1_DISABLE_SIM_SUCI_NOT_SUPPORTED",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRMM.IGNORE_T3511_AFTER_IRAT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.VoiceOverNr",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "OMC.BASED.NR.PLMN.ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.Gmc_N1_EnableTimerAfterEmc",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRMM.NRMM_N1_DISABLE_DURATION_ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRSM.DISABLE_N1_BLOCK_FROM_PDNMGR_IMS_BACKOFF",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_MRDC_GEN_BM",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_FBI",
+      "writes": [
+        10001
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_FBI",
+      "writes": [
+        10002
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_FBI",
+      "writes": [
+        10003
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_FBI",
+      "writes": [
+        10005
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_FBI",
+      "writes": [
+        10007
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_FBI",
+      "writes": [
+        10008
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_FBI",
+      "writes": [
+        10012
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_FBI",
+      "writes": [
+        10014
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_FBI",
+      "writes": [
+        10020
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_FBI",
+      "writes": [
+        10025
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_FBI",
+      "writes": [
+        10028
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_FBI",
+      "writes": [
+        10030
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_FBI",
+      "writes": [
+        10038
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_FBI",
+      "writes": [
+        10040
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_FBI",
+      "writes": [
+        10041
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_FBI",
+      "writes": [
+        10048
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_FBI",
+      "writes": [
+        10066
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_FBI",
+      "writes": [
+        10071
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_FBI",
+      "writes": [
+        10078
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        10257
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        10258
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        10260
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        10261
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_FBI",
+      "writes": [
+        10070
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        35018
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        32970
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_SRS_TX_SWITCH_PORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_MEAS_COMM_BM",
+      "writes": [
+        49311975
+      ]
+    },
+    {
+      "name": "!SAEL3.OPERATOR_PCO_FF03H_ABNORMAL_DEFAULT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.OPERATOR_PCO_FF03H_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FR1ADD_PHY_BM1",
+      "writes": [
+        104890369
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_1_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_2_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_3_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_4_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_5_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_CONDITION_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_CONDITION_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_LIMITATION_MAX_DL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_LIMITATION_MAX_UL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_1_CONDITION_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_1_CONDITION_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_1_LIMITATION_MAX_DL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_1_LIMITATION_MAX_UL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_2_CONDITION_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_2_CONDITION_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_2_LIMITATION_MAX_DL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_2_LIMITATION_MAX_UL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_3_CONDITION_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_3_CONDITION_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_3_LIMITATION_MAX_DL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_3_LIMITATION_MAX_UL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_0_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_0_MAX_BW",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_0_90MHZ",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_1_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_1_MAX_BW",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_1_90MHZ",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_2_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_2_MAX_BW",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRBW_2_90MHZ",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_MIMO_0_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_MIMO_0_MIMO_LIMIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_MIMO_1_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_MIMO_1_MIMO_LIMIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_MIMO_2_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_MIMO_2_MIMO_LIMIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_BAND",
+      "writes": [
+        10048
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_XTYR",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_BAND",
+      "writes": [
+        10077
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_XTYR",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_BAND",
+      "writes": [
+        10078
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_XTYR",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_BAND",
+      "writes": [
+        10041
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_XTYR",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_BAND",
+      "writes": [
+        10077
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_XTYR",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_BAND",
+      "writes": [
+        10078
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_XTYR",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_XTYR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_7_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_7_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_7_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_7_XTYR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_8_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_8_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_8_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_8_XTYR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_9_BAND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_9_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_9_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_9_XTYR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondition-support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer-support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Gruu-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pct-Feature-Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": "bg"
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB.Open.Offer",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": "di"
+    },
+    {
+      "name": "PSS.AIMS.Payload-EVS",
+      "writes": [
+        127,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-DTMF",
+      "writes": [
+        97
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-DTMF.WB",
+      "writes": [
+        96
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.Maxptime",
+      "writes": [
+        240
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Ptime",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.AS",
+      "writes": [
+        41
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.RS",
+      "writes": [
+        600
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.RR",
+      "writes": [
+        2000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Play.Media.OnLatestDialog",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-ENABLE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SUBSCRIBE-ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTT.ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtp.PORT",
+      "writes": [
+        8010
+      ]
+    },
+    {
+      "name": "PSS.AIMS.CNIHeader.Info",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtp.clock",
+      "writes": [
+        1000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtp.CPS",
+      "writes": [
+        30
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.Media.AS",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtcp.RR",
+      "writes": [
+        51
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtcp.RS",
+      "writes": [
+        153
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtp.payloadType",
+      "writes": [
+        111
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.red.payloadType",
+      "writes": [
+        112
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text Precondtion QOS Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DTMF-MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREF_TRANSPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_P_EMERGENCY_INFO_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ADD.PANI.TRUSTED.CONNECTION",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENC_ALGO",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_AUTH_ALGO",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SRVCC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREALERTING_SRVCC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ServerPort",
+      "writes": [
+        5060
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.Mode",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BW.Info",
+      "writes": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Max",
+      "writes": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.Codec.Info",
+      "writes": [
+        1,
+        15,
+        15,
+        15,
+        1,
+        1,
+        0,
+        4,
+        7,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRWB.Mode.Set",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRNB.Mode.Set",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Register.Timer",
+      "writes": [
+        600000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Subscribe.Timer",
+      "writes": [
+        600000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Session.Expires",
+      "writes": [
+        1800
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        90
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        90
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        90
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T1",
+      "writes": [
+        2000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T2",
+      "writes": [
+        16000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T4",
+      "writes": [
+        17000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.B(64*T1)",
+      "writes": [
+        128000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.C",
+      "writes": [
+        210000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.D",
+      "writes": [
+        130000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        128000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.H(64*T1)",
+      "writes": [
+        128000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        128000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.Request.Timeout.3gpp",
+      "writes": [
+        5000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precond.Connected.Mode.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.THYS.TIME",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "PSS.AIMS.HVOLTE.TVZW.TIME",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "PSS.AIMS.HVOLTE.TDELAY.TIME",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.CONGESTION.REDIAL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.TREQ",
+      "writes": [
+        63000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.TQOS",
+      "writes": [
+        8000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.PreAlering",
+      "writes": [
+        130000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mt.PreAlering",
+      "writes": [
+        12000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.Recovery.OperSpecific",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.Recovery.OperSpecific.WiFi",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mt.Recovery.OperSpecific",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall",
+      "writes": [
+        15000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall.WiFi",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall.Answer",
+      "writes": [
+        100000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Refresher.Param",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.MTUpgradeWaitTime",
+      "writes": [
+        40000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.MOUpgradeWaitTime",
+      "writes": [
+        20000
+      ]
+    },
+    {
+      "name": "PSS.XCAP.AS.Server.Domain",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.BSF.Server.Domain",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.GBA.ME.Mode",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.XCAP.As.RemotePort",
+      "writes": [
+        80
+      ]
+    },
+    {
+      "name": "PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        80
+      ]
+    },
+    {
+      "name": "PSS.XCAP.SS.Cache.Status.Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video.Media.AS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video.Media.RS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video.Media.RR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTCP-TimeOut",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video.Capability",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video.Codec.H264.Baseline.Profile",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RegRetry.BaseTime",
+      "writes": [
+        30
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RegRetry.MaxTime",
+      "writes": [
+        1800
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PhoneCtx.URI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.AS.Transport",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.BSF.Transport",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1500
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1500
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIPMSG.MTU.CHECK",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PANI.COUNTRYCODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Reg.Config.Setting",
+      "writes": [
+        96
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PRIVACY.HEADER.FIELD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precond.Connected.Mode.Enable.Hold",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.TCPIP.DSCP.SIP",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.TCPIP.DSCP.RTP",
+      "writes": [
+        46
+      ]
+    },
+    {
+      "name": "PSS.AIMS.199-Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MO.DedBearerWait.Timer",
+      "writes": [
+        3000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.DedBearerWait.Timer",
+      "writes": [
+        1000
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Call.End.Condition",
+      "writes": [
+        21
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.LOCAL.NUMBER.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.XCAP.ROOT.URI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.CALLEDNUM.SOURCE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP.OVER.DEFAULT.BEARER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Verstat.Check-NW-Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REGISTER.403PERMANENT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SMS.SKIP-InReplyTo-Header",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_GEOLOCATION_SUPPORT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.NRSACONTROL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ENABLE.RPORT-InVia-Header",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SessionRefresh-Method",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.Max-Red",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ACCESSTYPE.SUPPORT",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.SIP.INSTANCE",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "PSS.AIMS.UpdateCNI.Header",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.CNI.Timer",
+      "writes": [
+        7200000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MESSAGE.RSPWAIT.TIMER",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INCLUDE.SERVER.SIP.HEADER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SILENT_REDIAL_INTERVAL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "EMC.FEATURE_SUPPORT",
+      "writes": [
+        64
+      ]
+    },
+    {
+      "name": "PSS.XCAP.SS.CFNL.Config",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REFRESH.REG.IRAT",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HIDE_WIFI_MACADDRESS_IN_PANI",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.HANDLE_ERR_RESPONSE_WITH_RETRYAFTER_ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Force-Early-Media",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.SS.MediaTag.Config",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.XCAP.SS.RuleInfo.Version",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NONSEC_AUTH_ALGO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Reason.Forking.CallCompleted",
+      "writes": "SIP; cause=200; text=\"Call completed elsewhere\"\u0000"
+    },
+    {
+      "name": "PSS.AIMS.EMC.SUB.SERV",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer-EPSFB",
+      "writes": [
+        4000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-SEQUENCE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ENABLE_CONF_LOCAL_EVENT_IND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.CONF_MAX_PARTICIPANT",
+      "writes": [
+        8
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mt.Guard",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC.ANONYMOUS.CALL",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.USSD.RECV.INFO.Check",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PCSCF-TYPE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.FORCE.INC.SDP.SESS.VER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MULTIPLE.REG.SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Replaces-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.CALL.CONNECT.CNF.BEFORE.ACK",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTCP_XR_CONTROL_MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.RTP.Enable.VoiceRtpQualityInd",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.Default.Duration.Next.PCSCF",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_GEOLOCATION_ROUTING",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Registration.Uri.Order",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        180
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Process.Only.First.EarlyMedia.Param",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EmcPdnRemoval",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_PLMN_MAPPING_TABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_DISABLE_2G_3G_DATA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_DISABLE_2G_3G_DATA_DB",
+      "writes": [
+        8,
+        591597313,
+        591601409,
+        591605505,
+        591609601,
+        591613697,
+        592453377,
+        592457473,
+        591466241
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SMART_REMAIN_BAND_SCAN_INTERVAL",
+      "writes": [
+        20,
+        9,
+        50,
+        6,
+        100,
+        3
+      ]
+    },
+    {
+      "name": "OEM_GCONFIG_PARIS_VERSION",
+      "writes": "g5123_default_65_202110151358\u0000"
+    },
+    {
+      "name": "OEM_GFEATURE_SKIP_REJ_CAUSE_DB",
+      "writes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "!NRRRC.SIM_OPERATOR_BAND_LIST",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_FBI",
+      "writes": [
+        10077
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_ADVANCE_PLMN_SELECTION_DB",
+      "writes": [
+        118,
+        103,
+        110,
+        7
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_POLL_ENHANCEMENT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_NUM_OF_SCG_FAILURE",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_MON_DURATION",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_MIN_BLOCKING_TIME",
+      "writes": [
+        180
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_MAX_BLOCKING_TIME",
+      "writes": [
+        540
+      ]
+    },
+    {
+      "name": "NASL3.MM.EMER_CALL_PENDING_DURING_NORMAL_SEARCH",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.DISABLE_DATAAPN_DEACTIVATON",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.IMS_EMC_SIB_TYPE6",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NW.EMC.PERM.FAIL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.GMC_Emc_Wait_For_Lte_Attach_Enabled",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.RETRY_TX_FAIL_WITH_T3411_TIMER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.CROSS.STACK.REDIAL.TIMER",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "NASU.QUICK.CROSS.STACK.REDIAL.TIMER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.GMC_Emc_Wait_For_Lte_Attach_Enabled",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "COMMON.BplmnOOSPriorityOverPs",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_LTE_RADIO_DROP_METRICS_SETTING",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SKIP_SAVED_FREQ_SEARCH_FOR_HIGH_SPEED",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.BARRED TIMER",
+      "writes": [
+        30
+      ]
+    }
+  ]
+}

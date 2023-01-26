@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "l_testsim.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

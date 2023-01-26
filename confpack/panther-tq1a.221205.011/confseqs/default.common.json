@@ -1,0 +1,224 @@
+{
+  "revision": "v1.0",
+  "name": "default.common",
+  "items": [
+    {
+      "name": "!SAEL3.Cfg.Data Retry Test Enb/Dis",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.SPECIFIC_DRX_LENGTH",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTEL3.TAU by Dormant Enable/Disable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.Reject.Restart.Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.T_PLMN_BARRING_FEATURE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "LTEL1.PCH_GAP_CONFLICT_DETECT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Cell Barred Feature Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_JOINT_CA_TDD_PCELL_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.EdpdchPwrInterpolationSupport",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.NumSupportedDLHSCells",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!NRCAPA_INACTIVE_STATE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA_DB_SETTING_MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRPM.MTU_DEFAULT_SIZE",
+      "writes": [
+        1500
+      ]
+    },
+    {
+      "name": "!NRCAPA_SUPERSET_BANDCOMB_MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Prioritized FR2 MR Enable/Disable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCOMM_PC1DOT5_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_PC1DOT5_SUPPORTED_BANDS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA_NSA_HPUE_SUPPORTED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRRRC.SIM_BASED_BAND_LIST_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_CrossStackOosRecoveryThreshold",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "COMMON.TAS.ALGORITHM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "GL1.Antenna Band Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL1.Rake.TxAs.ForcedAntSelection",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "!LTERF.AS.FixedAntMode",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRL1.AS.FIXED_TESTMODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "RACH.FORCE.2RX",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_MAPPING_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_SINGLE_MAPPING_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Etc.SuppRachFailBlackListCell",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "GL3.LteMruScanSupport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTERRC_NR_BPLMN_FEATURE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_EMC_DSDS_OPT_MCC_PREFER_HOME",
+      "writes": [
+        1088,
+        1089,
+        770
+      ]
+    },
+    {
+      "name": "!NRCAPA.Band.BwpSameNumerology",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Band.BwpDiffNumerology",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NR.SASA.MODE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "revision": "v1.0",
+  "name": "CUCC.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.supp_of_fdpch",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_Efdpch",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_ul_dtx",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.slotFormat4",
+      "writes": [
+        false
+      ]
+    }
+  ]
+}

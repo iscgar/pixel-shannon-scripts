@@ -1,0 +1,93 @@
+{
+  "revision": "v1.0",
+  "name": "telia_no.sim2",
+  "items": [
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        61
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRNB",
+      "writes": [
+        102,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRWB",
+      "writes": [
+        104,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-EVS",
+      "writes": [
+        126,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringback.Timer",
+      "writes": [
+        180
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringing.Timer",
+      "writes": [
+        180
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q_DS",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

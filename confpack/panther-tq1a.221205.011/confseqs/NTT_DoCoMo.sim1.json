@@ -1,0 +1,327 @@
+{
+  "revision": "v1.0",
+  "name": "NTT_DoCoMo.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        32769
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "JPN01"
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        266
+      ]
+    },
+    {
+      "name": "HCOMMON.Support of Quick Rollback To LTE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.Gmc_N1_EnableTimerAfterEmc",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_ADDNL_THROTTLING_FLAG",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_1",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_1",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_1",
+      "writes": [
+        8,
+        26,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        38,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        111,
+        112
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_1",
+      "writes": [
+        5,
+        10,
+        20,
+        40,
+        80,
+        160,
+        320,
+        640,
+        1280,
+        1800,
+        -1
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_2",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_2",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_2",
+      "writes": [
+        8,
+        26,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        38,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        111,
+        112
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_2",
+      "writes": [
+        300,
+        -1
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_RAT_MODE_3",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_APN_TYPE_3",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_REJECT_CAUSE_LIST_3",
+      "writes": [
+        27,
+        28,
+        35,
+        50,
+        51
+      ]
+    },
+    {
+      "name": "!SAEL3.PDN_RETRY_TIMER_VALUES_3",
+      "writes": [
+        2147483647
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SMART_ENDC_UL_SCHEDULING_LNK_PRIO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        193
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pref.Uri.Type",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PRIVACY.HEADER.FIELD",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.USSD.RECV.INFO.Check",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INCLUDE.SERVER.SIP.HEADER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIPMSG.MTU.CHECK",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "NASU.CROSS.STACK.REDIAL.TIMER",
+      "writes": [
+        35
+      ]
+    },
+    {
+      "name": "NASU.QUICK.CROSS.STACK.REDIAL.TIMER",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OMC.UMTS.PLMN.LIST.DATA",
+      "writes": [
+        1,
+        1,
+        68,
+        15,
+        255
+      ]
+    }
+  ]
+}

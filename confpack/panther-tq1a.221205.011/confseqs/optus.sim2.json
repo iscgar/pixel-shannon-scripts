@@ -1,0 +1,230 @@
+{
+  "revision": "v1.0",
+  "name": "optus.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        265
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "AUS05"
+    },
+    {
+      "name": "ds_NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!DS_SAEL3.Band.Preferred Band List",
+      "writes": [
+        40,
+        7,
+        3,
+        1,
+        28
+      ]
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing_DS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM_DS",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM_DS",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHDL_SCS30_DS",
+      "writes": [
+        91
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_CHUL_SCS30_DS",
+      "writes": [
+        91
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_SRS_TX_SWITCH_PORT_DS",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        215
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Min.Se",
+      "writes": [
+        1800
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Text Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringing.Timer",
+      "writes": [
+        45
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RTCP-TimeOut",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RTP-TimeOut",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Session.Expires",
+      "writes": [
+        3600
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        32000
+      ]
+    },
+    {
+      "name": "DS.EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PRIVACY.HEADER.FIELD",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.SS.CFNL.Config",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Call.End.Condition",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.REFRESH.REG.IRAT",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

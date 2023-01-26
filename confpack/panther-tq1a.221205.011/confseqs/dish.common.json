@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "dish.common",
+  "items": [
+    {
+      "name": "!SAEL3.T_PLMN_BARRING_FEATURE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

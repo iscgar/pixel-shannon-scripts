@@ -1,0 +1,30 @@
+{
+  "revision": "v1.0",
+  "name": "movistar_es.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.supp_of_Efdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_fdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.UECAPA.NR.GEN.DRX.CYCLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_ul_dtx",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

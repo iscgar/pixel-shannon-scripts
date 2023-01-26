@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "bell.common",
+  "items": [
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_SINGLE_MAPPING_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

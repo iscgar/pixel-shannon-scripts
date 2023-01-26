@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "lla.common",
+  "items": [
+    {
+      "name": "!NRPM.MTU_DEFAULT_SIZE",
+      "writes": [
+        1280
+      ]
+    }
+  ]
+}

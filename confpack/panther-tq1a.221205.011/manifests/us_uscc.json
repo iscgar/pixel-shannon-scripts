@@ -1,0 +1,105 @@
+{
+  "revision": "v0.1",
+  "name": "us_uscc",
+  "carrier_id": 1952,
+  "confseqs": [
+    {
+      "type": "common",
+      "hash": "33bcaac3a286f217a9d7e493f713b95e63ab3502",
+      "name": "default.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "8cdc5b1a13e3895ccbf2b61ab67565149c79e8a4",
+      "name": "suclr_big_data_cc_num.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "231e9b33b1a04508efe71e5e8d0222a9b69105e0",
+      "name": "lte_ca_common.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "63cf1332d846af396c103d9a7dfde78d6ff8ee25",
+      "name": "lte_ca_0.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "2e4ba84b063bbce87e56c405f51c456ec3783429",
+      "name": "lte_ca_1.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "ef0dd98f6194240359e2a94d845bd04ca1d66cd4",
+      "name": "endc_nr_ca_common.common",
+      "f4": 1
+    },
+    {
+      "type": "common",
+      "hash": "d9181c4ffa748582f0126cc229f12c043a210dfc",
+      "name": "uscc.common"
+    },
+    {
+      "type": "sim1",
+      "hash": "c2c7021b2ac517aaf914f7241cbfc07564bd77c1",
+      "name": "default.sim1",
+      "f4": 1
+    },
+    {
+      "type": "sim1",
+      "hash": "f15745f206117a64c3e63de4342cfb8a6b1ae258",
+      "name": "endc_nr_ca_common_manual.sim1",
+      "f4": 1
+    },
+    {
+      "type": "sim1",
+      "hash": "466d4102013f313e9d17baedbcef4c53fc37ba16",
+      "name": "endc_nr_ca_common.sim1",
+      "f4": 1
+    },
+    {
+      "type": "sim1",
+      "hash": "e04f612c17fa3eeff9516de882e455672622e8c0",
+      "name": "uscc.sim1"
+    },
+    {
+      "type": "sim2",
+      "hash": "d9224dab30da69f362bddc18324363f22bc471e1",
+      "name": "default.sim2",
+      "f4": 1
+    },
+    {
+      "type": "sim2",
+      "hash": "414040f806af69a9dc7e5a90eb6a316c4be5792d",
+      "name": "endc_nr_ca_common_manual.sim2",
+      "f4": 1
+    },
+    {
+      "type": "sim2",
+      "hash": "5576cfe2a223d2d8009db9e06c9ff4e216c42ca4",
+      "name": "endc_nr_ca_common.sim2",
+      "f4": 1
+    },
+    {
+      "type": "sim2",
+      "hash": "cc78a036f900685fda15fa2acf1b99e3630c80fe",
+      "name": "uscc.sim2"
+    },
+    {
+      "type": "multislot",
+      "hash": "c078cc9b3081f26e5951756581a4b2433c2d104b",
+      "name": "default.multislot",
+      "f4": 1
+    },
+    {
+      "type": "multislot",
+      "hash": "315dfaf88c3705d64bbdfaa399cf44fb82005792",
+      "name": "uscc.multislot"
+    }
+  ]
+}

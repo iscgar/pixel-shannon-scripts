@@ -1,0 +1,96 @@
+{
+  "revision": "v1.0",
+  "name": "telus.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.dl_supp_macehs",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_IRAT PS HO to E-UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp EUTRAN meas and report in connected",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_EUTRAN_meas_in_CellFach",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SHORT_SPS_INTERVAL_FDD",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SHORT_SPS_INTERVAL_TDD",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SKIP_UL_SPS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_LOGGED_MEAS_IDLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL3.LTERRC_LOGGED_MEAS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "revision": "v1.0",
+  "name": "l_testsim.common",
+  "items": [
+    {
+      "name": "UECAPA_REL10_CA_COMB_NUM",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_1_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_1_BAND",
+      "writes": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_1_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_1_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_1_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_1_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_2_NUM_BAND",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_2_BAND",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_2_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        8193
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_2_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_2_SET_BITMAP",
+      "writes": [
+        3221225472
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_2_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_3_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_3_BAND",
+      "writes": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_3_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_3_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_3_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_3_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_4_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_4_BAND",
+      "writes": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_4_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_4_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_4_SET_BITMAP",
+      "writes": [
+        3221225472
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_4_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_5_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_5_BAND",
+      "writes": [
+        1,
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_5_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_5_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_5_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_5_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_6_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_6_BAND",
+      "writes": [
+        1,
+        20
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_6_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_6_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_6_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_6_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_7_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_7_BAND",
+      "writes": [
+        1,
+        28
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_7_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_7_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_7_SET_BITMAP",
+      "writes": [
+        3221225472
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_7_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_8_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_8_BAND",
+      "writes": [
+        1,
+        32
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_8_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32768,
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_8_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32768,
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_8_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_8_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_9_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_9_BAND",
+      "writes": [
+        1,
+        41
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_9_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_9_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_9_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_9_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_10_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_10_BAND",
+      "writes": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_10_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_10_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_10_SET_BITMAP",
+      "writes": [
+        3758096384
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_10_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_11_NUM_BAND",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_11_BAND",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_11_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        8193
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_11_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_11_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_11_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_12_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_12_BAND",
+      "writes": [
+        3,
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_12_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_12_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_12_SET_BITMAP",
+      "writes": [
+        4160749568
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_12_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_13_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_13_BAND",
+      "writes": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_13_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_13_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_13_SET_BITMAP",
+      "writes": [
+        3221225472
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_13_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_14_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_14_BAND",
+      "writes": [
+        20,
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_14_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32768,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_14_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_14_SET_BITMAP",
+      "writes": [
+        3221225472
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_14_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_15_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_15_BAND",
+      "writes": [
+        28,
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_15_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32768,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_15_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_15_SET_BITMAP",
+      "writes": [
+        3221225472
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_15_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_16_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_16_BAND",
+      "writes": [
+        3,
+        32
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_16_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32769,
+        32768
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_16_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32768,
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_16_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_16_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_17_NUM_BAND",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_17_BAND",
+      "writes": [
+        20,
+        38
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_17_DL_BW_CLASS_BIT_MAP",
+      "writes": [
+        32768,
+        32769
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_17_UL_BW_CLASS_BIT_MAP",
+      "writes": [
+        65535,
+        65535
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_17_SET_BITMAP",
+      "writes": [
+        2147483648
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_CA_COMB_17_CATEGORY_ARRAY",
+      "writes": [
+        18446744073709551615,
+        18446744073709551615
+      ]
+    }
+  ]
+}

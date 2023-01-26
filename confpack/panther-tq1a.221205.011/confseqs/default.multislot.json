@@ -1,0 +1,1818 @@
+{
+  "revision": "v1.0",
+  "name": "default.multislot",
+  "items": [
+    {
+      "name": "!LTEL3.MEAS.ANR Meas Enable/Disable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.L2U PSHO Enable/Disable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.U2L PSHO Enable/Disable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.Rel10.Carrier Aggregation Enable/Disable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_MIMO_CAPA_UL",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_REQUEST_REDUCED_FORMAT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_REQUEST_SKIP_FALLBACKCOMB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_DIFF_FALLBACKCOMB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_ONLY_ROHC_PROFILE_6",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_MAXIMUM_CCS_RETRIEVAL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL3.LTERRC_LOGGED_MEAS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_STAND_ALONE_GNSS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_ALTERNATIVE_TBS_INDICES_R12_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_APERIODIC_CSI_REPORTING_R13_SUPPORT",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_CODEBOOK_HARQ_ACK_R13_SUPPORT",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_MODIFIED_MPR_BEHAVIOR",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_PDCP_SN_EXTENSION",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_EXTENDED_RLC_SN_SO_FIELD_R13_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_AS_RELEASE",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        13
+      ]
+    },
+    {
+      "name": "UECAPA_FGI01",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI02",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI03",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI04",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI05",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI06",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI07",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI08",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI09",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI10",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI11",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI12",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI13",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI14",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI15",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI16",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI17",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI18",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI19",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI20",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI21",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI22",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI23",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI24",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI25",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI26",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI27",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI28",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI29",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI30",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI31",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI32",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI33",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI34",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI35",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI36",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI37",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI38",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI39",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI40",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI41",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI42",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI43",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI44",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI45",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI46",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI47",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI48",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI49",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI50",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI51",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI52",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI53",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI54",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI55",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI56",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI57",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI58",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI59",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI61",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI62",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI63",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI64",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI101",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI104",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI105",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI106",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI107",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI108",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI109",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI110",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI111",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI113",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI114",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI116",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI117",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI118",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI119",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI120",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI121",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI122",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI123",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI124",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI125",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI126",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI127",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI128",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI129",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI130",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI131",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI132",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9_WITH_8TX",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_PDCP_ROHC_PROFILES",
+      "writes": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_PDCP_NUM_ROHC_SESSION",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_PHY_UE_TX_ANTENNASEL_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_PHY_UE_SPECIFIC_REF_SIG_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_MEAS_IFREQ_GAP",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_MEAS_IRAT_UTRA_FDD_GAP",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_MEAS_IRAT_GERAN_GAP",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_IRAT_PS_HO_TO_GERAN",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_E_DUAL_LAYER_FDD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_E_DUAL_LAYER_TDD",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_E_REDIRECTION_UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_E_REDIRECTION_UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_E_REDIRECTION_GERAN",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_DEVICE_TYPE_R9",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_INTRA_FREQ_PROX_IND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_INTER_FREQ_PROX_IND",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_UTRAN_PROX_IND",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_INTRA_FREQ_SI_ACQ_FOR_HO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_INTER_FREQ_SI_ACQ_FOR_HO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_UTRAN_SI_ACQ_FOR_HO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_RACH_REPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_FREQ_BAND_INDICATOR_PRIORITY",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_EXTENDED_MAX_MEASID_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SHORT_SPS_INTERVAL_FDD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SHORT_SPS_INTERVAL_TDD",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SKIP_UL_SPS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_TIMER_T312_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_ENDC_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_REPORTCGI_NR_NOENDC_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_REPORTCGI_NR_ENDC_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_FREQ_BAND_RETRIEVAL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_MULTI_CLUSTER_PUSCH_WITHIN_CC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_NON_CONTIG_UL_RA_WITH_CC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_UL_64QAM_BAND_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_DL_256QAM_BAND_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FOURLAYER_TM3TM4",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9TM10_SETLAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_SS_CCH_INTERFHANDL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_LOGGED_MEAS_IDLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI01",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI02",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI03",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI04",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI05",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI06",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI07",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI08",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI09",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI10",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI11",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI12",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI13",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI14",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI15",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI16",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI17",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI18",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI19",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI20",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI21",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI22",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI23",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI24",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI25",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI26",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI27",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI28",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI29",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI30",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI31",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI32",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI33",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI34",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI35",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI36",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI37",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI38",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI39",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI40",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI41",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI42",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI43",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI44",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI45",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI46",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI47",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI48",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI49",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI50",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI51",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI52",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI53",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI54",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI55",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI56",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI57",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI58",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI59",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI61",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI62",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI63",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI64",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI101",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI104",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI105",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI106",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI107",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI108",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI109",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI110",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI111",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI113",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI114",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI116",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI117",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI118",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI119",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI120",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI121",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI122",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI123",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI124",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI125",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI126",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI127",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI128",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI129",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI130",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI131",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI132",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_MIMO_SUPPORTED_BAND_SET",
+      "writes": [
+        14,
+        1,
+        2,
+        3,
+        4,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        0,
+        0,
+        0,
+        0,
+        28,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        36,
+        37,
+        38,
+        39,
+        40,
+        0,
+        0,
+        0,
+        0,
+        0,
+        46,
+        0,
+        0,
+        0,
+        0,
+        0,
+        52,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UL3.Etc.SNR_Based_IFCellResel_SirDiffOffset",
+      "writes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UL3.Etc.Periodic Csg Search Interval in minutes",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_cell reselection to E-UTRA in PCH",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Etc.supp_DeferredSIB_during_CSFB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.dl_supp_macehs",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Req.APBCR_Feature_Supported",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Etc.FastDorm_T323_Notpresent_supp",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Etc.FastDormancy_support_in_MultiRab",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "UL3.Etc.FastDormancyT323Rel8Support",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_fdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_Efdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.slotFormat4",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_ul_dtx",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_IRAT PS HO to E-UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp EUTRAN meas and report in connected",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_EUTRAN_meas_in_CellFach",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.EnhancedCellFachSupport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.EnhancedCellFachDrxSupport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.VOLTE.LOW.PWR.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.UECAPA.MRDC.GEN.SRB3",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.UECAPA.NR.GEN.DRX.CYCLE",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.DRB.UL.SPLIT.SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.BLACK.LIST",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        78
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

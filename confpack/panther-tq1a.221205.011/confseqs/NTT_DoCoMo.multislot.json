@@ -1,0 +1,90 @@
+{
+  "revision": "v1.0",
+  "name": "NTT_DoCoMo.multislot",
+  "items": [
+    {
+      "name": "UECAPA_FGI09",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI10",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI34",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI114",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI09",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI10",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI34",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI109",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI110",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI114",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

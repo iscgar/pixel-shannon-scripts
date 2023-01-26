@@ -1,0 +1,24 @@
+{
+  "revision": "v1.0",
+  "name": "kena_it.sim2",
+  "items": [
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature_DS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

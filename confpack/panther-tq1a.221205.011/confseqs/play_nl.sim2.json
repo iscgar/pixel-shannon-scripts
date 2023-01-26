@@ -1,0 +1,36 @@
+{
+  "revision": "v1.0",
+  "name": "play_nl.sim2",
+  "items": [
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        44
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

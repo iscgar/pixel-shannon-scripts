@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "eu_common.common",
+  "items": [
+    {
+      "name": "PSS.SMS.CBS Activation",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

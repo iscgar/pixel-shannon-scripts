@@ -1,0 +1,72 @@
+{
+  "revision": "v1.0",
+  "name": "rogers.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.dl_supp_macehs",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_IRAT PS HO to E-UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp EUTRAN meas and report in connected",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_EUTRAN_meas_in_CellFach",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        16
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

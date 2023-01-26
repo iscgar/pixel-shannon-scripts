@@ -1,0 +1,1224 @@
+{
+  "revision": "v3.0",
+  "name": "vzw.multislot",
+  "items": [
+    {
+      "name": "UECAPA_FGI01",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI02",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI03",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI04",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI05",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI06",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI07",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI08",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI09",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI10",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI11",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI12",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI13",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI14",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI15",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI16",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI17",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI18",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI19",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI20",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI21",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI22",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI23",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI24",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI25",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI26",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_FGI27",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI28",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI29",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI30",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI31",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_FGI32",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI33",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI34",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI35",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI36",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI37",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI38",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI39",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI40",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI41",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI42",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI43",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI44",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI45",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI46",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI47",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI48",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI49",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI50",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI51",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI52",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI53",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI54",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI55",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI56",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI57",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI58",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI59",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI61",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI62",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI63",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI64",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI101",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI106",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI107",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI108",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI109",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI110",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI111",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI113",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI114",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI116",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI117",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI118",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI119",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI120",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI121",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI122",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI123",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI124",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI125",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI126",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI127",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI128",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI129",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI130",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI131",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI132",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_TIMER_T312_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI01",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI02",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI03",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI04",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI05",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI06",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI07",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI08",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI09",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI10",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI11",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI12",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI13",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI14",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI15",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI16",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI17",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI18",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI19",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI20",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI21",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI22",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI23",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI24",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI25",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI26",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI27",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI28",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI29",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI30",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI31",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI32",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI33",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI34",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI35",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI36",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI37",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI38",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI39",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI40",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI41",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI42",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI43",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI44",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI45",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI46",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI47",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI48",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI49",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI50",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI51",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI52",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI53",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI54",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI55",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI56",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI57",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI58",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI59",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI60",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI61",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI62",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI63",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI64",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI101",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI106",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI107",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI108",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI109",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI110",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI111",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI113",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI114",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI116",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI117",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI118",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI119",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI120",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI121",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI122",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI123",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI124",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI125",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI126",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI127",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI128",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI129",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI130",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI131",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI132",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_LOGGED_MEAS_IDLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL3.LTERRC_LOGGED_MEAS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Etc.supp_DeferredSIB_during_CSFB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9_WITH_8TX",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        77
+      ]
+    }
+  ]
+}

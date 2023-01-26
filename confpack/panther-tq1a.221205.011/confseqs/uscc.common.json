@@ -1,0 +1,12 @@
+{
+  "revision": "v4.0",
+  "name": "uscc.common",
+  "items": [
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_MAPPING_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

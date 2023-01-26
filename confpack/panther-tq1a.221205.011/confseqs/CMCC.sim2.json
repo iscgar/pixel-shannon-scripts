@@ -1,0 +1,70 @@
+{
+  "revision": "v1.0",
+  "name": "CMCC.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        8194
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "CHN09"
+    },
+    {
+      "name": "ds_PSS.MMC.MMSS RAT ID",
+      "writes": [
+        2,
+        9,
+        3,
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_FCN_DUAL_PDP_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "ds_UL3.Etc.MRU_UmtsMode",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Codec.Mode",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PREF_TRANSPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

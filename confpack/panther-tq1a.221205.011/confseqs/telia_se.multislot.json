@@ -1,0 +1,30 @@
+{
+  "revision": "v1.0",
+  "name": "telia_se.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_REPORTCGI_NR_ENDC_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_REPORTCGI_NR_NOENDC_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

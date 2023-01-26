@@ -1,0 +1,228 @@
+{
+  "revision": "v1.0",
+  "name": "testsim.sim1",
+  "items": [
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_SRS_TX_SWITCH_PORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_BAND",
+      "writes": [
+        10048
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_0_XTYR",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_BAND",
+      "writes": [
+        10077
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_1_XTYR",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_BAND",
+      "writes": [
+        10078
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_ULMIMO",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_2_XTYR",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_BAND",
+      "writes": [
+        10041
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_3_XTYR",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_BAND",
+      "writes": [
+        10048
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_4_XTYR",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_BAND",
+      "writes": [
+        10077
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_5_XTYR",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_BAND",
+      "writes": [
+        10078
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_NSA_SA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_ULMIMO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_SHAPER_SRSTX_6_XTYR",
+      "writes": [
+        3
+      ]
+    }
+  ]
+}

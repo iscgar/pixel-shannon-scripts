@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "sbm-c10.sim2",
+  "items": [
+    {
+      "name": "UECAPA_NR_RF_BAND_19_SRS_TX_SWITCH_PORT_SA_DS",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_SRS_TX_SWITCH_PORT_DS",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

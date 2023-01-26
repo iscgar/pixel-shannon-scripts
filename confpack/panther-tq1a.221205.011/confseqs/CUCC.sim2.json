@@ -1,0 +1,45 @@
+{
+  "revision": "v1.0",
+  "name": "CUCC.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        8197
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "CHN20"
+    },
+    {
+      "name": "ds_PSS.MMC.MMSS RAT ID",
+      "writes": [
+        2,
+        9,
+        3,
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        8
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Codec.Mode",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

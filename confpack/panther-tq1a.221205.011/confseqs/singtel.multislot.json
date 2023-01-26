@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "singtel.multislot",
+  "items": [
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        78
+      ]
+    }
+  ]
+}

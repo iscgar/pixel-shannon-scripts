@@ -1,0 +1,90 @@
+{
+  "revision": "v1.0",
+  "name": "vha.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.supp_of_fdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_Efdpch",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.slotFormat4",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_ul_dtx",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI109",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI110",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        78
+      ]
+    }
+  ]
+}

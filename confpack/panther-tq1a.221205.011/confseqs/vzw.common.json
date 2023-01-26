@@ -1,0 +1,36 @@
+{
+  "revision": "v3.0",
+  "name": "vzw.common",
+  "items": [
+    {
+      "name": "!SAEL3.Cfg.Data Retry Test Enb/Dis",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.T_PLMN_BARRING_FEATURE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Prioritized FR2 MR Enable/Disable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_MAPPING_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

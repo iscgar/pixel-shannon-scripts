@@ -1,0 +1,36 @@
+{
+  "revision": "v1.0",
+  "name": "cht.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.dl_supp_macehs",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_IRAT PS HO to E-UTRA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp EUTRAN meas and report in connected",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        78
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "revision": "v1.0",
+  "name": "dtag_de.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.EnhancedCellFachSupport",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.EnhancedCellFachDrxSupport",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_UE_CATEGORY",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        16
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        13
+      ]
+    },
+    {
+      "name": "UECAPA_FGI01",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI107",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI01",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI107",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_LOGGED_MEAS_IDLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.slotFormat4",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "!LTEL3.LTERRC_LOGGED_MEAS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_SS_CCH_INTERFHANDL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_RACH_REPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": [
+        38
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_EUTRAN_meas_in_CellFach",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_REPORTCGI_NR_NOENDC_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_DIFF_FALLBACKCOMB",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

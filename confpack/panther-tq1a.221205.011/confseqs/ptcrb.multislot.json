@@ -1,0 +1,278 @@
+{
+  "revision": "v2.0",
+  "name": "ptcrb.multislot",
+  "items": [
+    {
+      "name": "UL3.Req.APBCR_Feature_Supported",
+      "writes": [
+        true
+      ]
+    },
+    {
+      "name": "UECAPA_FGI01",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_FGI01",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI41",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI102",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI103",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI104",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI105",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI106",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI107",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI107",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI108",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI109",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI109",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI110",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI110",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI112",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_XDD_REL10_FGI115",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_TM9_WITH_8TX",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL13_DOWNLINK_LAA_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SHORT_SPS_INTERVAL_FDD",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SHORT_SPS_INTERVAL_TDD",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_SKIP_UL_SPS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_LOGGED_MEAS_IDLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL3.LTERRC_LOGGED_MEAS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_STAND_ALONE_GNSS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_UL",
+      "writes": [
+        18
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_CATEGORY_DL",
+      "writes": [
+        20
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL11_SS_CCH_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL12_DL_256QAM_BAND_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_MULTI_CLUSTER_PUSCH_WITHIN_CC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_NON_CONTIG_UL_RA_WITH_CC",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL10_NON_CONTIG_UL_RA_WITH_CC_SPECIFIC",
+      "writes": [
+        4,
+        2,
+        4,
+        12,
+        66
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": "&)"
+    }
+  ]
+}

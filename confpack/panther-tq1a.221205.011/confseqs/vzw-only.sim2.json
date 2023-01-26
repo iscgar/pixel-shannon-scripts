@@ -1,0 +1,54 @@
+{
+  "revision": "v3.0",
+  "name": "vzw-only.sim2",
+  "items": [
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_NUM_OF_SCG_FAILURE_DS",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_MON_DURATION_DS",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_MIN_BLOCKING_TIME_DS",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR1_BLOCKING_MAX_BLOCKING_TIME_DS",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR2_BLOCKING_NUM_OF_SCG_FAILURE_DS",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR2_BLOCKING_MON_DURATION_DS",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR2_BLOCKING_MIN_BLOCKING_TIME_DS",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FR2_BLOCKING_MAX_BLOCKING_TIME_DS",
+      "writes": [
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "revision": "v1.0",
+  "name": "LGU.common",
+  "items": [
+    {
+      "name": "!LTEL3.TAU by Dormant Enable/Disable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.NumSupportedDLHSCells",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.T_PLMN_BARRING_FEATURE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "eu_common.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL11_CRS_INTERFHANDL",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

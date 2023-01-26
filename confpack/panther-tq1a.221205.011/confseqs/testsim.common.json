@@ -1,0 +1,12 @@
+{
+  "revision": "v1.0",
+  "name": "testsim.common",
+  "items": [
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

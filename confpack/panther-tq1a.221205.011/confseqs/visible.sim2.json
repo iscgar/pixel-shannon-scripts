@@ -1,0 +1,421 @@
+{
+  "revision": "v1.0",
+  "name": "visible.sim2",
+  "items": [
+    {
+      "name": "!SAEL3_DS.EMM_IMS_REGI_WAIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRNB",
+      "writes": "fl"
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRNB.Open.Offer",
+      "writes": [
+        106
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-AMRWB",
+      "writes": "hn"
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-EVS",
+      "writes": [
+        109,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-DTMF",
+      "writes": [
+        100
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Payload-DTMF.WB",
+      "writes": [
+        105
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Media.AS",
+      "writes": [
+        38
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Media.RS",
+      "writes": [
+        800
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Media.RR",
+      "writes": [
+        2400
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.RTT.ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.Factory.URI",
+      "writes": "confserver@vsblims.com\u0000"
+    },
+    {
+      "name": "DS.PSS.AIMS.Text Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Text.rtcp.RR",
+      "writes": [
+        100
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Text.rtcp.RS",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1428
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1428
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPSEC_ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.ADD.PANI.TRUSTED.CONNECTION",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Codec.AMRWB.Mode.Set",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Codec.AMRNB.Mode.Set",
+      "writes": [
+        128
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Session.Expires",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Min.Se",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringback.Timer",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Ringing.Timer",
+      "writes": [
+        55
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.T1",
+      "writes": [
+        3000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        30000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.TREQ",
+      "writes": [
+        2000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Refresher.Param",
+      "writes": [
+        -1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.MTUpgradeWaitTime",
+      "writes": [
+        55000
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Timer.MOUpgradeWaitTime",
+      "writes": [
+        60000
+      ]
+    },
+    {
+      "name": "DS.PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        80
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.PhoneCtx.URI",
+      "writes": "vsblims.com\u0000"
+    },
+    {
+      "name": "DS.PSS.AIMS.Audio.Capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST_LENGTH",
+      "writes": [
+        39
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.FORCE_PS_MODE_FOR_PSONLY_SERVING_PLMN_LIST",
+      "writes": [
+        19,
+        64,
+        0,
+        19,
+        0,
+        16,
+        19,
+        32,
+        16,
+        19,
+        48,
+        16,
+        19,
+        0,
+        149,
+        19,
+        0,
+        152,
+        19,
+        0,
+        25,
+        19,
+        1,
+        17,
+        19,
+        1,
+        114,
+        19,
+        17,
+        114,
+        19,
+        33,
+        114,
+        19,
+        49,
+        114,
+        19,
+        65,
+        114,
+        19,
+        81,
+        114,
+        19,
+        97,
+        114,
+        19,
+        113,
+        114,
+        19,
+        129,
+        114,
+        19,
+        145,
+        114,
+        19,
+        1,
+        130,
+        19,
+        17,
+        130,
+        19,
+        33,
+        130,
+        19,
+        49,
+        130,
+        19,
+        65,
+        130,
+        19,
+        81,
+        130,
+        19,
+        97,
+        130,
+        19,
+        113,
+        130,
+        19,
+        129,
+        130,
+        19,
+        145,
+        130,
+        19,
+        1,
+        147,
+        19,
+        1,
+        132,
+        19,
+        17,
+        132,
+        19,
+        33,
+        132,
+        19,
+        49,
+        132,
+        19,
+        65,
+        132,
+        19,
+        81,
+        132,
+        19,
+        97,
+        132,
+        19,
+        113,
+        132,
+        19,
+        129,
+        132,
+        19,
+        145,
+        132
+      ]
+    },
+    {
+      "name": "DS.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_CSG_SUPPORT",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

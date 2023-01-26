@@ -1,0 +1,153 @@
+{
+  "revision": "v1.0",
+  "name": "skt.sim2",
+  "items": [
+    {
+      "name": "DS_TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        16388
+      ]
+    },
+    {
+      "name": "gDS_TCS_FCI_info",
+      "writes": "KOR25"
+    },
+    {
+      "name": "DS_GL3.Operator Specific Band",
+      "writes": [
+        14
+      ]
+    },
+    {
+      "name": "!DS_LTEL1.RRM.Blind Scan Enb/Dis",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.Improved_SSAC_Support",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.Delay_First_RAU_During_CSFB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!DS_SAEL3.Band.Preferred Band",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "!SAEL3_DS.CATS_enabled",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "ds_NASL3.MM.Enable_Quick_Rollback_To_Lte_Pdp",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_PS_BARRING_NTF_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_USIM_MIGRATION",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS_TCS_GV_LOCATION_INFO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Operator-Spec",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Conference.Factory.URI",
+      "writes": "conference-factory@sktims.net\u0000"
+    },
+    {
+      "name": "DS.PSS.AIMS.SUBSCRIBE-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.IPSEC_ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.Video.Codec.H264.Baseline.Profile",
+      "writes": [
+        8
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.ADD.PANI.TRUSTED.CONNECTION",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "DS.PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

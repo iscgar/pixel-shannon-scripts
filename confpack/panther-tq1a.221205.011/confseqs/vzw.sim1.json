@@ -1,0 +1,756 @@
+{
+  "revision": "v3.0",
+  "name": "vzw.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        4097
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "USA50"
+    },
+    {
+      "name": "PSS.MMC.MMSS RAT ID",
+      "writes": [
+        2,
+        3,
+        5,
+        9,
+        2,
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1428
+      ]
+    },
+    {
+      "name": "!SAEL3.Cfg.Data Retry Rel Version",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!SAEL3.LTE_SET_PS_MODE_2",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        120
+      ]
+    },
+    {
+      "name": "NASL3.MM.gprs_multislot_class",
+      "writes": [
+        12
+      ]
+    },
+    {
+      "name": "NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "HCOMMON.MM.LCS_VA_capability",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "TCS_GV_CSG_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.OPERATOR_PCO_FF03H_ABNORMAL_DEFAULT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.OPERATOR_PCO_FF03H_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondition-support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Operator-Spec",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB",
+      "writes": "fl"
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRNB.Open.Offer",
+      "writes": [
+        106
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-AMRWB",
+      "writes": "hn"
+    },
+    {
+      "name": "PSS.AIMS.Payload-EVS",
+      "writes": "sm"
+    },
+    {
+      "name": "PSS.AIMS.Payload-DTMF",
+      "writes": [
+        100
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Payload-DTMF.WB",
+      "writes": [
+        105
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.AS",
+      "writes": [
+        38
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.RS",
+      "writes": [
+        800
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Media.RR",
+      "writes": [
+        2400
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EMC-PRECONDITION-ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTT.ENABLE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.Factory.URI",
+      "writes": "confserver@vzims.com\u0000"
+    },
+    {
+      "name": "PSS.AIMS.Text Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Video Precondtion QOS Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtcp.RR",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Text.rtcp.RS",
+      "writes": [
+        100
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1428
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1428
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPSEC_ENABLE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ADD.PANI.TRUSTED.CONNECTION",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ALERTING_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MIDCALL_SRVCC",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BW.Info",
+      "writes": [
+        6,
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Max",
+      "writes": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.ChAwRecv",
+      "writes": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.Codec.Info",
+      "writes": [
+        1,
+        15,
+        15,
+        15,
+        1,
+        1,
+        0,
+        5,
+        5,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        1,
+        1,
+        3,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRWB.Mode.Set",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Codec.AMRNB.Mode.Set",
+      "writes": [
+        128
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Session.Expires",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Min.Se",
+      "writes": [
+        300
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringback.Timer",
+      "writes": [
+        60
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Ringing.Timer",
+      "writes": [
+        55
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.T1",
+      "writes": [
+        3000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.B(64*T1)",
+      "writes": [
+        192000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.F(64*T1)",
+      "writes": [
+        30000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.H(64*T1)",
+      "writes": [
+        192000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.J(64*T1 for UDP)",
+      "writes": [
+        192000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.Request.Timeout.3gpp",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.Recovery.OperSpecific",
+      "writes": [
+        70000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall",
+      "writes": [
+        20000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall.WiFi",
+      "writes": [
+        20000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precond.Connected.Mode.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.TREQ",
+      "writes": [
+        2000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Refresher.Param",
+      "writes": [
+        -1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.MTUpgradeWaitTime",
+      "writes": [
+        55000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.MOUpgradeWaitTime",
+      "writes": [
+        60000
+      ]
+    },
+    {
+      "name": "PSS.XCAP.Bsf.RemotePort",
+      "writes": [
+        80
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MT.USSD.Support",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PhoneCtx.URI",
+      "writes": "vzims.com\u0000"
+    },
+    {
+      "name": "EMC.SCANNING.TIMER.VALUE",
+      "writes": [
+        40
+      ]
+    },
+    {
+      "name": "EMC.FEATURE_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HEADER_GEOLOCATION_SUPPORT",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.SIP.INSTANCE",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Conference.SUBSCRIBE-TYPE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTP.OVER.DEFAULT.BEARER",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "PSS.AIMS.UpdateCNI.Header",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.PCSCF.Block.Proc.Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.CONTACT-HDR.USER.PART",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INCLUDE.SERVER.SIP.HEADER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.SIP_HIDE_WIFI_MACADDRESS_IN_PANI",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Force-Early-Media",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Reason.Forking.CallCompleted",
+      "writes": "SIP;text=\"Call Completion Elsewhere\"\u0000"
+    },
+    {
+      "name": "PSS.AIMS.EMC.SUB.SERV",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.EmerCall.Answer",
+      "writes": [
+        36000000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.ACCESSTYPE.SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.MULTIPLE.REG.SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Timer.Mo.PreAlering",
+      "writes": [
+        195000
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RTCP_XR_CONTROL_MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.Default.Duration.Next.PCSCF",
+      "writes": [
+        30
+      ]
+    },
+    {
+      "name": "PSS.AIMS.RELIABLE_18X_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EmcPdnRemoval",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_MODEM_FATAL_REJECT_RECOVERY",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_CONDITION_BAND",
+      "writes": [
+        20002
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_CONDITION_NSA_SA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_LIMITATION_MAX_DL_CC_NUM",
+      "writes": [
+        255
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_FILTER_NRCC_0_LIMITATION_MAX_UL_CC_NUM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_SRS_TX_SWITCH_PORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_SRS_TX_SWITCH_PORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_SRS_TX_SWITCH_PORT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_SRS_TX_SWITCH_PORT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_SRS_TX_SWITCH_PORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FR1ADD_PHY_BM1",
+      "writes": [
+        239108097
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_1_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_2_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_3_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_4_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSUL_5_SRS_MAXNUM_PSRS_PERBWP_PERSLOT",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "LPP.Profile",
+      "writes": [
+        21
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "revision": "v1.0",
+  "name": "kt.multislot",
+  "items": [
+    {
+      "name": "UL3.Cap.Phych.supp_of_fdpch",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_of_Efdpch",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.supp_ul_dtx",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.Phych.slotFormat4",
+      "writes": [
+        false
+      ]
+    },
+    {
+      "name": "UL3.Cap.Multi.supp_IRAT PS HO to E-UTRA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.MultiCellSupport_DC_HSDPA",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Etc.FastDormancyT323Rel8Support",
+      "writes": [
+        false
+      ]
+    }
+  ]
+}

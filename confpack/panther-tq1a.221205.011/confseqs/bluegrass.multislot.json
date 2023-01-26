@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "bluegrass.multislot",
+  "items": [
+    {
+      "name": "UECAPA_REL14_UL_256QAM_SUPPORT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTENR.NSA.UECAPA.NR.GEN.DRX.CYCLE",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

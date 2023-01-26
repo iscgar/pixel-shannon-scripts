@@ -1,0 +1,204 @@
+{
+  "revision": "v1.1",
+  "name": "firstnet.sim1",
+  "items": [
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_1_FBI",
+      "writes": [
+        10002
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_2_FBI",
+      "writes": [
+        10005
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_3_FBI",
+      "writes": [
+        10066
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_4_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_5_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_6_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_7_FBI",
+      "writes": [
+        10012
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_8_FBI",
+      "writes": [
+        10014
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_9_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_10_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_11_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_12_FBI",
+      "writes": [
+        10030
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_13_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_14_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_15_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_16_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_17_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_18_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_19_FBI",
+      "writes": [
+        10077
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_20_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_21_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_22_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_23_FBI",
+      "writes": [
+        10260
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_24_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.Band.Preferred Band",
+      "writes": [
+        14
+      ]
+    },
+    {
+      "name": "!SAEL3.Band.Preferred Band List",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.PCO_IPV4_MTU_MAX_SIZE",
+      "writes": [
+        1342
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV4.MTU.Size",
+      "writes": [
+        1342
+      ]
+    },
+    {
+      "name": "PSS.AIMS.IPV6.MTU.Size",
+      "writes": [
+        1342
+      ]
+    }
+  ]
+}

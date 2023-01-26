@@ -1,0 +1,245 @@
+{
+  "revision": "v2.0",
+  "name": "ptcrb.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        257
+      ]
+    },
+    {
+      "name": "gTCS_FCI_info",
+      "writes": "GCF01"
+    },
+    {
+      "name": "NASL3.PLMN.Samsung SOR Feature Status",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "GL3.Edge_Band_Config",
+      "writes": [
+        15
+      ]
+    },
+    {
+      "name": "!SAEL3.DETACH_RE_ATTACH_REQUIRED",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.MM.A5_algorithms",
+      "writes": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "TCS_GV_LOCATION_INFO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_1_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_REL15_FSULPCC_2_256Q",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASL3.MM.gea_algorithms",
+      "writes": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "NASU.NR.CONFIG.MODE",
+      "writes": [
+        17
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.DynamicPowerSharing",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Switch.DssFeature",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR1_BM",
+      "writes": [
+        51402
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_FR2_BM",
+      "writes": [
+        49354
+      ]
+    },
+    {
+      "name": "PSS.GMC_NrRoamingDisableType",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_RF_BAND_25_FBI",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.LBS.NR_Pos_Profile",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.LBS.NR_AGNSS_Profile",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "PSS.AIMS.DYNAMIC_OPERATORSPEC_FLAG",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Pct-Feature-Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Audio.Capability",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "PSS.AIMS.EVS.BR.Min",
+      "writes": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.PREF_TRANSPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REFRESH.REG.IRAT",
+      "writes": [
+        19
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precond.Connected.Mode.Enable",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Precond.Connected.Mode.Enable.Hold",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.INV.RSP.TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "NASU.SUPPORTED.EMC.IMS",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.VoiceOverNr",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "PSS.AIMS.Enable.NRSACONTROL",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "PSS.AIMS.REG.Default.Duration.Next.PCSCF",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "PSS.AIMS.NON-DETECTABLE-EMC.Checking-PAIheader",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_POLL_ENHANCEMENT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!SAEL3.RETRY_TX_FAIL_WITH_T3411_TIMER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_MMW_DISABLE_PER_CARRIER_SKU",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_ENABLE_FCC_BANDS",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "revision": "v1.1",
+  "name": "firstnet.common",
+  "items": [
+    {
+      "name": "!NRPM.MTU_DEFAULT_SIZE",
+      "writes": [
+        1342
+      ]
+    }
+  ]
+}

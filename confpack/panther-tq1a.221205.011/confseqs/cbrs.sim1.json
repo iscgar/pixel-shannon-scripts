@@ -1,0 +1,61 @@
+{
+  "revision": "v1.0",
+  "name": "cbrs.sim1",
+  "items": [
+    {
+      "name": "TCS_GV_OPT_CARRIER_TYPE",
+      "writes": [
+        49152
+      ]
+    },
+    {
+      "name": "UE RAT MODE CARRIER CONFIG",
+      "writes": [
+        11
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_UE_OPERATION_MODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.SAE_VOICE_DOMAIN_PREF",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.SIM_OPERATOR_BAND",
+      "writes": [
+        48,
+        0
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_IS_FOR_OPPORTUNISTIC_DATA",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.DISABLE_DATAAPN_DEACTIVATON",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!SAEL3.EMM_IMS_REGI_WAIT",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "COMMON.BplmnOOSPriorityOverPs",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

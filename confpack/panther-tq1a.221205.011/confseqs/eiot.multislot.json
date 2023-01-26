@@ -1,0 +1,22 @@
+{
+  "revision": "v1.0",
+  "name": "eiot.multislot",
+  "items": [
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": "&)"
+    }
+  ]
+}

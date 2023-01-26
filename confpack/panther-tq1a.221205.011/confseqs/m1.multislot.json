@@ -1,0 +1,20 @@
+{
+  "revision": "v1.0",
+  "name": "m1.multislot",
+  "items": [
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS_NUM",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "!NRCOMM_HPUE_SUPPORTED_BANDS",
+      "writes": [
+        41,
+        77,
+        78
+      ]
+    }
+  ]
+}

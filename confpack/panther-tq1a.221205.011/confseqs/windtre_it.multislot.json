@@ -1,0 +1,18 @@
+{
+  "revision": "v1.0",
+  "name": "windtre_it.multislot",
+  "items": [
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS_NUM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTE.COMMON.HPUE.SUPPORTED_BANDS",
+      "writes": [
+        38
+      ]
+    }
+  ]
+}

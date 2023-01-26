@@ -1,0 +1,2058 @@
+{
+  "revision": "v1.0",
+  "name": "endc_nr_ca_common.sim1",
+  "items": [
+    {
+      "name": "UECAPA_NR_FSDLPCC_CNT",
+      "writes": [
+        22
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_1_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_1_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_1_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_1_FR_BW",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_1_MAXNUM_MIMO_LAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_1_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_2_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_2_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_2_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_2_FR_BW",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_2_MAXNUM_MIMO_LAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_2_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_3_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_3_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_3_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_3_FR_BW",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_3_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_3_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_4_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_4_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_4_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_4_FR_BW",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_4_MAXNUM_MIMO_LAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_4_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_5_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_5_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_5_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_5_FR_BW",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_5_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_5_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_6_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_6_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_6_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_6_FR_BW",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_6_MAXNUM_MIMO_LAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_6_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_7_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_7_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_7_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_7_FR_BW",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_7_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_7_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_8_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_8_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_8_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_8_FR_BW",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_8_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_8_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_9_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_9_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_9_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_9_FR_BW",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_9_MAXNUM_MIMO_LAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_9_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_10_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_10_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_10_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_10_FR_BW",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_10_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_10_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_11_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_11_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_11_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_11_FR_BW",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_11_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_11_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_12_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_12_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_12_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_12_FR_BW",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_12_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_12_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_13_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_13_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_13_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_13_FR_BW",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_13_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_13_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_14_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_14_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_14_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_14_FR_BW",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_14_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_14_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_15_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_15_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_15_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_15_FR_BW",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_15_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_15_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_16_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_16_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_16_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_16_FR_BW",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_16_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_16_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_17_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_17_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_17_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_17_FR_BW",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_17_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_17_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_18_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_18_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_18_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_18_FR_BW",
+      "writes": [
+        8
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_18_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_18_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_19_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_19_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_19_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_19_FR_BW",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_19_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_19_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_20_BM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_20_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_20_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_20_FR_BW",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_20_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_20_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_21_BM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_21_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_21_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_21_FR_BW",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_21_MAXNUM_MIMO_LAYER",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_21_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_22_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_22_SCS",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_22_FR_TYPE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_22_FR_BW",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_22_MAXNUM_MIMO_LAYER",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSDLPCC_22_MOD_ORDER",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_CNT",
+      "writes": [
+        26
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_FR_BW",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_1_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_FR_BW",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_2_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_FR_BW",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_3_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_FR_BW",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_4_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_FR_BW",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_5_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_FR_BW",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_6_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_SCS",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_FR_BW",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_7_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_FR_BW",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_8_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_FR_BW",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_9_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_FR_BW",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_10_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_FR_BW",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_11_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_FR_BW",
+      "writes": [
+        4
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_12_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_FR_BW",
+      "writes": [
+        5
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_13_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_FR_BW",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_14_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_FR_BW",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_15_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_FR_BW",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_16_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_FR_BW",
+      "writes": [
+        7
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_17_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_FR_BW",
+      "writes": [
+        8
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_18_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_FR_BW",
+      "writes": [
+        8
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_19_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_FR_BW",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_20_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_FR_BW",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_21_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_BM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_FR_BW",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_22_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_BM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_FR_BW",
+      "writes": [
+        9
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_23_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_BM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_FR_BW",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_24_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_BM",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_SCS",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_FR_TYPE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_FR_BW",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_25_MOD_ORDER",
+      "writes": [
+        6
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_BM",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_SCS",
+      "writes": [
+        3
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_FR_TYPE",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_FR_BW",
+      "writes": [
+        10
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_MIMOCB_PUSCH_MAXNUM_MIMO_LAYER_CB",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_MIMOCB_PUSCH_MAXNUM_SRSRSCE_PERSET",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_MAXNUM_MIMO_LAYER_NONCB",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UECAPA_NR_FSULPCC_26_MOD_ORDER",
+      "writes": [
+        5
+      ]
+    }
+  ]
+}

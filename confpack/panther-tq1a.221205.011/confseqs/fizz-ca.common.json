@@ -1,0 +1,12 @@
+{
+  "revision": "v1.1",
+  "name": "fizz-ca.common",
+  "items": [
+    {
+      "name": "OEM_GIMEI_FIXED_SPECIAL_SINGLE_MAPPING_SUPPORT",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

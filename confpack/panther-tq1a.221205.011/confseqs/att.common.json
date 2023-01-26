@@ -1,0 +1,66 @@
+{
+  "revision": "v2.0",
+  "name": "att.common",
+  "items": [
+    {
+      "name": "!NRPM.MTU_DEFAULT_SIZE",
+      "writes": [
+        1430
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Idle Filter Length",
+      "writes": [
+        5120
+      ]
+    },
+    {
+      "name": "UL3.Cap.NumSupportedDLHSCells",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "UL3.Cap.Security.supp_ciph_alg_uea2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Cap.Security.supp_int_alg_uia2",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL3.Etc.Avoid_Band",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA_INACTIVE_STATE",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRRRC.SIM_BASED_BAND_LIST_SUPPORT",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!LTEL1.RRM.Prioritized FR2 MR Enable/Disable",
+      "writes": [
+        1
+      ]
+    }
+  ]
+}

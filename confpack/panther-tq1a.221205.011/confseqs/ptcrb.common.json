@@ -1,0 +1,66 @@
+{
+  "revision": "v2.0",
+  "name": "ptcrb.common",
+  "items": [
+    {
+      "name": "DS_TCS_GV_LOCATION_INFO",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "UL3.Cap.EdpdchPwrInterpolationSupport",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRCAPA.Gen.SrsTxSwitch",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "OEM_GFEATURE_UNIVERSAL_INFORMATION_MANAGER",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "COMMON.TAS.ALGORITHM",
+      "writes": [
+        2
+      ]
+    },
+    {
+      "name": "GL1.Antenna Band Enable",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "UL1.Rake.TxAs.ForcedAntSelection",
+      "writes": [
+        0
+      ]
+    },
+    {
+      "name": "!LTERF.AS.FixedAntMode",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "!NRL1.AS.FIXED_TESTMODE",
+      "writes": [
+        1
+      ]
+    },
+    {
+      "name": "RACH.FORCE.2RX",
+      "writes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+syntax = "proto2";
+
+message CarrierManifest { // m15cd5d
+    optional string revision = 1 [(nanopb).max_size = 64];
+    optional string name = 2 [(nanopb).max_size = 64];
+    optional uint32 carrier_id = 3;
+    optional string oldest_compat_modem = 4 [(nanopb).max_size = 64];
+    repeated ConfseqFileInfo confseqs = 5 [(nanopb).type = FT_CALLBACK];
+}
+
+message ConfseqFileInfo { // m15fbcd
+    optional uint32 ssid_group = 1 [(nanopb).int_size = 1]; // 0 - Common, 1 = SIM1, 2 = SIM2, 3 = Multislot, 4 = Blob
+    optional bytes confseq_truncated_sha256 = 2 [(nanopb).max_size = 20];
+    optional uint32 f3 = 3; // enum?
+    optional int32 f4 = 4; // enum?
+    optional string blob_path = 5 [(nanopb).max_size = 256];
+    optional uint32 platform = 6 [(nanopb).int_size = 1]; // 1, 2, or 3, 0 - no provision.
+    optional uint32 product = 7 [(nanopb).int_size = 1]; // platform==1: 6 or 7, platform==2: 2-5, platform==3: 8-11, 0 - no provision.
+}
+
+message Confseq { // m15fc95
+    optional string revision = 1 [(nanopb).max_size = 64];
+    optional string name = 2 [(nanopb).max_size = 64];
+    repeated m39a785 f3 = 3 [(nanopb).type = FT_CALLBACK];
+    repeated NvItem nv_items = 4 [(nanopb).type = FT_CALLBACK];
+}
+
+message NvItemWrite { // m1a87c8
+    optional uint32 start_seq = 1;
+    optional uint32 count = 2;
+    optional uint64 value = 3;
+}
+
+message NvItem { // m1a882c
+    optional uint32 nv_item_hash = 1;
+    repeated NvItemWrite writes = 2 [(nanopb).type = FT_CALLBACK];
+}
+
+message m39a708 {
+    oneof oneof1 {
+        string f1 = 1 [(nanopb).max_size = 64];
+        int32 f2 = 2; // enum?
+        uint64 f3 = 3; // enum?
+        bytes f4 = 4 [(nanopb).max_size = 64];
+    }
+}
+
+message m39a785 {
+    optional uint32 f1 = 1 [(nanopb).int_size = 1]; // enum?
+    optional uint32 f2 = 2; // enum?
+    optional uint32 f3 = 3; // enum?
+    repeated m39a708 f4 = 4 [(nanopb).type = FT_CALLBACK];
+}
